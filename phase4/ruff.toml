@@ -1,0 +1,12 @@
+# Lint settings (CI runs: ruff check app.py views data utils).
+line-length = 140
+target-version = "py312"
+
+[lint]
+# E4/E7/E9 pycodestyle errors, F pyflakes, I import order, B bugbear, UP modern syntax, SIM simplifications
+select = ["E4", "E7", "E9", "F", "I", "B", "UP", "SIM"]
+ignore = [
+    "B905",   # zip(strict=...) : lengths are equal by construction in the places used
+    "SIM105", # try/except/pass is clearer than contextlib.suppress for beginners
+    "SIM108", # ternary rewrites often hurt readability
+]

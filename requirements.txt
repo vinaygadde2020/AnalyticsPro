@@ -1,0 +1,18 @@
+streamlit==1.66.1
+pandas==3.0.5
+pyarrow==25.0.1
+plotly==7.0.0
+numpy==2.5.2
+openpyxl==3.1.5
+
+# Required to read legacy .xls uploads (the uploader accepts .xls; without
+# xlrd those files fail with an "additional package" error).
+xlrd>=2.0.1
+
+# Optional: only used for the OLS trendline overlay on scatter plots
+# (Correlation & Relationships page and the chart-prompt scatter request).
+# app.py guards the import (HAS_STATSMODELS), so the app runs without it.
+# Tested with 0.15.0; left unpinned because it is optional.
+statsmodels
+# Pillow is a Streamlit dependency; 13.x fixes the advisories reported by pip-audit for 12.x.
+pillow>=13.0.0,<14

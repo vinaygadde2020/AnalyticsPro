@@ -1,0 +1,15 @@
+# Virtual environments (recreate with: python -m venv .venv && pip install -r requirements.txt)
+.venv/
+.venv-*/
+venv/
+
+# Python caches / test artifacts
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Local secrets, if ever added
+.env

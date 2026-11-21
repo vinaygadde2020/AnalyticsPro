@@ -1,0 +1,124 @@
+{
+ "mobile|Data Upload & Preview": {
+  "overflow": {
+   "scrollW": 390,
+   "vw": 390,
+   "mainScrollW": 390,
+   "mainClient": 390,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "mobile|Data Preparation": {
+  "overflow": {
+   "scrollW": 390,
+   "vw": 390,
+   "mainScrollW": 390,
+   "mainClient": 390,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "mobile|Automatic EDA": {
+  "overflow": {
+   "scrollW": 390,
+   "vw": 390,
+   "mainScrollW": 390,
+   "mainClient": 390,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "mobile|KPI Dashboard": {
+  "overflow": {
+   "scrollW": 390,
+   "vw": 390,
+   "mainScrollW": 390,
+   "mainClient": 390,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "mobile|Interactive Dashboard": {
+  "overflow": {
+   "scrollW": 390,
+   "vw": 390,
+   "mainScrollW": 390,
+   "mainClient": 390,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "mobile|Visualizations": {
+  "overflow": {
+   "scrollW": 390,
+   "vw": 390,
+   "mainScrollW": 390,
+   "mainClient": 390,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "mobile|Correlation": {
+  "overflow": {
+   "scrollW": 390,
+   "vw": 390,
+   "mainScrollW": 390,
+   "mainClient": 390,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "mobile|Outlier Detection": {
+  "overflow": {
+   "scrollW": 390,
+   "vw": 390,
+   "mainScrollW": 390,
+   "mainClient": 390,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "mobile|Ask Your Data": {
+  "overflow": {
+   "scrollW": 390,
+   "vw": 390,
+   "mainScrollW": 390,
+   "mainClient": 390,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "mobile|Dataset Comparison": {
+  "overflow": {
+   "scrollW": 390,
+   "vw": 390,
+   "mainScrollW": 390,
+   "mainClient": 390,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "mobile|Export & Reporting": {
+  "overflow": {
+   "scrollW": 390,
+   "vw": 390,
+   "mainScrollW": 390,
+   "mainClient": 390,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "mobile|console": []
+}

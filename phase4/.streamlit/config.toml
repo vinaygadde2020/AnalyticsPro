@@ -1,0 +1,18 @@
+# Streamlit settings for AnalyticsPro (picked up when you run `streamlit run app.py` from phase4/).
+
+[server]
+# Maximum size of one uploaded file, in MB. The whole file is loaded into memory
+# (several copies are kept while you clean data), so lower this on small machines.
+maxUploadSize = 200
+
+[browser]
+# Do not send anonymous usage statistics.
+gatherUsageStats = false
+
+[client]
+# Show only the exception type (not stack traces or file paths) if an unexpected error ever reaches the page.
+showErrorDetails = "type"
+
+[theme]
+# Brand indigo (design token --ap-indigo) for sliders, radios, checkboxes and selected tags; Streamlit's default is red.
+primaryColor = "#4f46e5"

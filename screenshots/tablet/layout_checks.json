@@ -1,0 +1,124 @@
+{
+ "tablet|Data Upload & Preview": {
+  "overflow": {
+   "scrollW": 820,
+   "vw": 820,
+   "mainScrollW": 819,
+   "mainClient": 819,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "tablet|Data Preparation": {
+  "overflow": {
+   "scrollW": 820,
+   "vw": 820,
+   "mainScrollW": 819,
+   "mainClient": 819,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "tablet|Automatic EDA": {
+  "overflow": {
+   "scrollW": 820,
+   "vw": 820,
+   "mainScrollW": 819,
+   "mainClient": 819,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "tablet|KPI Dashboard": {
+  "overflow": {
+   "scrollW": 820,
+   "vw": 820,
+   "mainScrollW": 819,
+   "mainClient": 819,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "tablet|Interactive Dashboard": {
+  "overflow": {
+   "scrollW": 820,
+   "vw": 820,
+   "mainScrollW": 819,
+   "mainClient": 819,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "tablet|Visualizations": {
+  "overflow": {
+   "scrollW": 820,
+   "vw": 820,
+   "mainScrollW": 819,
+   "mainClient": 819,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "tablet|Correlation": {
+  "overflow": {
+   "scrollW": 820,
+   "vw": 820,
+   "mainScrollW": 819,
+   "mainClient": 819,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "tablet|Outlier Detection": {
+  "overflow": {
+   "scrollW": 820,
+   "vw": 820,
+   "mainScrollW": 819,
+   "mainClient": 819,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "tablet|Ask Your Data": {
+  "overflow": {
+   "scrollW": 820,
+   "vw": 820,
+   "mainScrollW": 819,
+   "mainClient": 819,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "tablet|Dataset Comparison": {
+  "overflow": {
+   "scrollW": 820,
+   "vw": 820,
+   "mainScrollW": 819,
+   "mainClient": 819,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "tablet|Export & Reporting": {
+  "overflow": {
+   "scrollW": 820,
+   "vw": 820,
+   "mainScrollW": 819,
+   "mainClient": 819,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "tablet|console": []
+}

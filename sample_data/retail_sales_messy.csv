@@ -1,0 +1,1226 @@
+order_id,order_date,region,product,category,units,unit_price,revenue
+10992,2024-01-01,South,Charger,Electronics,24,20.47,491.28
+10237,2024-01-01,East,Headset,Electronics,22,81.16,1785.52
+10438,2024-01-02,North,Planner,Stationery,2,15.07,30.14
+11065,2024-01-02,South,Notebook,Stationery,1,3.03,3.03
+10163,2024-01-02,South,Pen Set,Stationery,24,8.37,200.88
+10710,2024-01-02,North,Planner,Stationery,21,15.19,318.99
+10139,2024-01-02,East,Widget,Hardware,22,11.32,249.04
+10017,2024-01-02,East,Charger,Electronics,21,20.34,427.14
+10596,2024-01-03,East,Pen Set,Stationery,2,8.06,16.12
+11078,2024-01-03,East,Gizmo,Hardware,7,56.68,396.76
+10097,2024-01-03,West,Widget,Hardware,15,12.76,191.4
+10247,2024-01-03,South,Gizmo,Hardware,1,54.86,54.86
+10377,2024-01-03,East,Headset,Electronics,10,83.2,832.0
+11155,2024-01-03,South,Headset,Electronics,22,74.6,1641.2
+10100,2024-01-04,East,Widget,Hardware,16,13.66,218.56
+11156,2024-01-04,West,Notebook,Stationery,2,3.28,6.56
+10037,2024-01-05,South,Pen Set,Stationery,24,7.75,186.0
+11073,2024-01-05,East,Widget,Hardware,10,13.18,131.8
+10004,2024-01-05,South,Gadget,Hardware,4,,112.96
+10272,2024-01-05,West,Gizmo,Hardware,15,53.04,795.6
+10239,2024-01-06,south,Gadget,Hardware,5,30.51,152.55
+10342,2024-01-06,East,Pen Set,Stationery,23,7.75,178.25
+10481,2024-01-06,South,Charger,Electronics,7,21.1,147.7
+10562,2024-01-07, North,Notebook,Stationery,21,3.07,64.47
+10599,2024-01-08,North,Gadget,Hardware,13,27.64,359.32
+11059,2024-01-08,North,Planner,Stationery,15,15.33,229.95
+11128,2024-01-08,North,Widget,Hardware,5,12.84,64.2
+10181,2024-01-08,East,Notebook,Stationery,23,3.15,72.45
+10164,2024-01-09,North,Notebook,Stationery,21,3.07,64.47
+10754,2024-01-09,North,Headset,Electronics,14,78.28,1095.92
+11061,2024-01-09,North,Gadget,Hardware,8,29.66,237.28
+10925,2024-01-09,North,Headset,Electronics,12,78.73,944.76
+11080,2024-01-09,North,Headset,Electronics,16,80.31,1284.96
+11112,2024-01-09,East,Planner,Stationery,20,14.61,292.2
+10345,2024-01-09,South,Widget,Hardware,23,12.03,276.69
+10516,2024-01-09,North,Charger,Electronics,1,19.31,19.31
+10299,2024-01-10,East,Charger,Electronics,17,19.89,338.13
+10240,2024-01-10,North,Gadget,Hardware,23,29.11,669.53
+10067,2024-01-10,North,Pen Set,Stationery,24,7.84,188.16
+10312,2024-01-10,East,Headset,Electronics,7,82.21,575.47
+10464,2024-01-10,North,Gadget,Hardware,9,30.38,273.42
+10729,2024-01-11,East,Charger,Electronics,12,19.38,232.56
+11035,2024-01-11,North,Notebook,Stationery,5,3.28,16.4
+11140,2024-01-12,South,Headset,Electronics,2,81.55,163.1
+10418,2024-01-12,South,Gadget,Hardware,3,29.97,89.91
+10559,2024-01-13,South,Planner,Stationery,17,15.62,265.54
+10376,2024-01-13,South,Gadget,Hardware,15,28.12,421.8
+11145,2024-01-13,North,Pen Set,Stationery,4,7.77,31.08
+10400,2024-01-13,South,Gadget,Hardware,24,28.56,685.44
+10624,2024-01-13,South,Notebook,Stationery,15,3.27,49.05
+11122,2024-01-13,East,Notebook,Stationery,16,3.25,52.0
+11167,2024-01-13,North,Pen Set,Stationery,2,7.75,15.5
+10075,2024-01-14,South,Notebook,Stationery,7,3.1,21.7
+10735,2024-01-14,North,Widget,Hardware,4,12.55,50.2
+10893,2024-01-14,South,Planner,Stationery,16,14.89,238.24
+10244,2024-01-15,,Planner,Stationery,7,13.87,97.09
+10855,2024-01-15,South,Headset,Electronics,5,82.34,411.7
+10894,2024-01-15,North,Gizmo,Hardware,9,58.83,529.47
+11172,2024-01-15,West,Gizmo,Hardware,9,54.11,486.99
+10392,2024-01-16,South,Charger,Electronics,21,17.6,369.6
+10983,2024-01-16,East,Notebook,Stationery,16,3.29,52.64
+10365,2024-01-16,North,Notebook,Stationery,8,3.31,26.48
+10581,2024-01-16,West,Charger,Electronics,18,20.01,360.18
+11177,2024-01-17,East,Gadget,Hardware,9,,252.27
+10185,2024-01-18,South,Headset,Electronics,8,78.06,624.48
+10224,2024-01-18,North,Notebook,Stationery,14,3.35,46.9
+11195,2024-01-18,North,Gadget,Hardware,5,29.88,149.4
+10993,2024-01-18,North,Widget,Hardware,9,11.93,107.37
+10812,2024-01-19,West,Charger,Electronics,17,18.95,322.15
+10609,2024-01-19,West,Widget,Hardware,22,12.39,272.58
+10984,2024-01-19,South,Widget,Hardware,11,12.4,136.4
+10278,2024-01-19,North,Gadget,Hardware,14,30.04,420.56
+10437,2024-01-19,North,Widget,Hardware,22,12.73,280.06
+11157,2024-01-19,East,Planner,Stationery,22,15.31,336.82
+10165,2024-01-19,East ,Gizmo,Hardware,15,54.33,814.95
+10514,2024-01-19,East,Gadget,Hardware,22,28.82,634.04
+11009,2024-01-20,North,Charger,Electronics,7,19.41,135.87
+10040,2024-01-21,North,Gizmo,Hardware,1,56.52,56.52
+10387,2024-01-21,South,Charger,Electronics,17,18.58,315.86
+10015,2024-01-22,East,Gadget,Hardware,21,28.82,605.22
+10567,2024-01-22, North,Pen Set,Stationery,17,7.53,128.01
+10325,2024-01-22,East,Headset,Electronics,9,78.66,707.94
+11076,2024-01-22,East,Gadget,Hardware,18,30.04,540.72
+10941,2024-01-22,North,Pen Set,Stationery,14,,108.92
+11123,2024-01-23,East,Gadget,Hardware,14,29.02,406.28
+10682,2024-01-23,North,Planner,Stationery,8,16.1,128.8
+10324,2024-01-23,West,Charger,Electronics,23,20.64,474.72
+10943,2024-01-23,South,Planner,Stationery,17,15.87,269.79
+10611,2024-01-24,East,Pen Set,Stationery,18,,149.04
+10767,2024-01-24,West,Gizmo,Hardware,5,52.12,260.6
+10574,2024-01-24,North,Gadget,Hardware,15,28.82,432.3
+11098,2024-01-24,East,Headset,Electronics,6,78.33,469.98
+10034,2024-01-24,South,Charger,Electronics,10,18.64,186.4
+10394,2024-01-24,West,Notebook,Stationery,22,3.27,71.94
+10511,2024-01-25,West,Gadget,Hardware,1,28.19,28.19
+10520,2024-01-26,East,Planner,Stationery,22,,336.38
+10848,2024-01-26,North,Headset,Electronics,18,77.77,1399.86
+10965,2024-01-26,South,Charger,Electronics,24,19.24,461.76
+10687,2024-01-26,North,Headset,Electronics,2,75.16,150.32
+10507,2024-01-26,South,Charger,Electronics,21,19.7,413.7
+10336,2024-01-26,North,Notebook,Stationery,3,3.37,10.11
+10701,2024-01-26,West,Gadget,Hardware,18,28.76,517.68
+10638,2024-01-26,West,Widget,Hardware,13,12.88,167.44
+10007,2024-01-27,EAST,Charger,Electronics,18,21.01,378.18
+10429,2024-01-27,North,Notebook,Stationery,16,3.27,52.32
+10270,2024-01-27,East,Gizmo,Hardware,22,52.51,1155.22
+10277,2024-01-27,East,Charger,Electronics,23,20.14,463.22
+10051,2024-01-27,North,Gizmo,Hardware,21,54.05,1135.05
+10068,2024-01-28,North,Gizmo,Hardware,22,,1179.2
+10744,2024-01-29,East,Gadget,Hardware,8,27.87,222.96
+10745,2024-01-29,South,Planner,Stationery,4,16.31,65.24
+10435,2024-01-29,North,Gadget,Hardware,23,30.47,700.81
+10755,2024-01-29,South,Gizmo,Hardware,12,57.74,692.88
+10459,2024-01-30,North,Gadget,Hardware,13,26.38,342.94
+10621,2024-01-30,South,Pen Set,Stationery,8,7.51,60.08
+11091,2024-01-30,South,Gadget,Hardware,9,27.51,247.59
+10803,2024-01-30,South,Notebook,Stationery,14,3.23,45.22
+10972,2024-01-30,North,Notebook,Stationery,21,,63.21
+10910,2024-01-30,South,Pen Set,Stationery,1,8.24,8.24
+10248,2024-01-31,South,Gadget,Hardware,15,27.64,414.6
+10549,2024-01-31, South,Headset,Electronics,3,77.0,231.0
+10222,2024-01-31,West,Gadget,Hardware,6,29.05,174.3
+10800,2024-02-01,East,Planner,Stationery,1,15.1,15.1
+10478,2024-02-01,North,Gadget,Hardware,22,26.73,588.06
+11056,2024-02-01,West ,Planner,Stationery,23,15.68,360.64
+10359,2024-02-01,West,Gizmo,Hardware,23,52.12,1198.76
+10938,2024-02-01,West,Planner,Stationery,1,14.94,14.94
+10228,2024-02-02,East,Gadget,Hardware,23,29.53,679.19
+11024,2024-02-02,North,Notebook,Stationery,24,3.11,74.64
+10578,2024-02-02,South,Gizmo,Hardware,10,54.38,543.8
+10659,2024-02-02,East,Planner,Stationery,24,15.85,380.4
+10719,2024-02-02,West,Pen Set,Stationery,12,7.73,2319.0
+10489,2024-02-02,South,Planner,Stationery,8,13.84,110.72
+10775,2024-02-03,South,Pen Set,Stationery,22,7.67,168.74
+10743,2024-02-03,West,Gizmo,Hardware,7,54.78,383.46
+10439,2024-02-04,South,Planner,Stationery,12,15.41,184.92
+11116,2024-02-04,West,Planner,Stationery,21,15.72,330.12
+11134,2024-02-04,East,Headset,Electronics,16,78.84,1261.44
+10865,2024-02-04,North,Gadget,Hardware,8,30.3,242.4
+11028,2024-02-04,North,Gadget,Hardware,12,30.02,360.24
+11139,2024-02-05,North,Widget,Hardware,16,12.03,192.48
+10852,2024-02-05,North,Notebook,Stationery,6,3.02,18.12
+10876,2024-02-05,West,Notebook,Stationery,17,3.14,53.38
+10188,2024-02-06,West,Gadget,Hardware,17,30.73,522.41
+10867,2024-02-06,South,Notebook,Stationery,2,3.1,6.2
+10044,2024-02-06,East,Notebook,Stationery,22,3.43,75.46
+10702,2024-02-06,South,Gadget,Hardware,13,30.05,390.65
+10740,2024-02-07,East,Widget,Hardware,12,11.56,138.72
+10150,2024-02-07,North,Headset,Electronics,2,81.2,162.4
+10227,2024-02-08,East,Widget,Hardware,6,12.12,72.72
+10566,2024-02-08,West,Gizmo,Hardware,17,54.56,927.52
+10009,2024-02-08,,Charger,Electronics,23,21.04,483.92
+10132,2024-02-08,North,Gizmo,Hardware,13,52.4,681.2
+11153,2024-02-08,North,Headset,Electronics,23,76.75,1765.25
+11143,2024-02-09,West,Gizmo,Hardware,4,52.87,211.48
+10171,2024-02-09,WEST,Gadget,Hardware,24,29.19,700.56
+11010,2024-02-10,West ,Notebook,Stationery,2,3.19,6.38
+10971,2024-02-10,East,Gadget,Hardware,19,27.92,530.48
+10144,2024-02-11,North,Widget,Hardware,17,,209.78
+10098,2024-02-11,South,Gadget,Hardware,2,27.66,55.32
+10284,2024-02-12,North,Widget,Hardware,2,11.76,23.52
+11187,2024-02-12,South,Charger,Electronics,18,20.51,369.18
+10786,2024-02-14,WEST,Gizmo,Hardware,24,52.85,1268.4
+10209,2024-02-14,North,Pen Set,Stationery,12,7.94,95.28
+10602,2024-02-14,South,Pen Set,Stationery,12,7.68,92.16
+10764,2024-02-15,West,Planner,Stationery,15,14.67,220.05
+10630,2024-02-16,East,Notebook,Stationery,24,3.03,72.72
+11184,2024-02-16,North,Gizmo,Hardware,2,57.35,114.7
+10170,2024-02-17,South,Gizmo,Hardware,2,50.23,100.46
+10413,2024-02-17,South,Notebook,Stationery,1,3.22,3.22
+10667,2024-02-17,North,Headset,Electronics,9,83.07,747.63
+11193,2024-02-17,South,Charger,Electronics,19,20.63,391.97
+10352,2024-02-18,North,Pen Set,Stationery,23,7.63,175.49
+10419,2024-02-18,East,Gizmo,Hardware,22,52.96,1165.12
+10441,2024-02-19,North,Widget,Hardware,22,12.47,274.34
+10918,2024-02-19,South,Gizmo,Hardware,22,55.52,1221.44
+11084,2024-02-19,North,Gizmo,Hardware,24,50.59,1214.16
+10390,2024-02-19,North,Headset,Electronics,13,80.87,1051.31
+10054,2024-02-19,West,Headset,Electronics,13,79.82,1037.66
+10816,2024-02-20,South,Gizmo,Hardware,23,49.56,1139.88
+11087,2024-02-20,West,Charger,Electronics,4,18.96,75.84
+10145,2024-02-20,East,Widget,Hardware,15,11.2,168.0
+10253,2024-02-21,South,Charger,Electronics,3,19.45,58.35
+11133,2024-02-21,West,Charger,Electronics,24,19.77,474.48
+10512,2024-02-21,East,Widget,Hardware,23,12.72,292.56
+11104,2024-02-21,West,Widget,Hardware,18,11.97,215.46
+10698,2024-02-21,West,Notebook,Stationery,23,3.08,70.84
+10425,2024-02-22,East,Notebook,Stationery,3,3.12,9.36
+11040,2024-02-22,West,Gadget,Hardware,13,28.85,375.05
+10230,2024-02-23,East,Headset,Electronics,19,80.67,1532.73
+10073,2024-02-23,North,Notebook,Stationery,15,3.3,49.5
+10936,2024-02-23,North,Headset,Electronics,20,83.39,1667.8
+10364,2024-02-24,North,Widget,Hardware,23,12.98,298.54
+10853,2024-02-24,West,Headset,Electronics,10,78.45,784.5
+10493,2024-02-24,North,Gadget,Hardware,9,30.11,270.99
+10072,2024-02-24,West,Notebook,Stationery,24,3.31,79.44
+10291,2024-02-24,South,Pen Set,Stationery,7,7.09,49.63
+10448,2024-02-25,North,Notebook,Stationery,4,2.99,11.96
+10634,2024-02-25,North,Headset,Electronics,1,79.46,79.46
+10492,2024-02-25,North,Gadget,Hardware,23,27.58,634.34
+11170,2024-02-25,North,Charger,Electronics,22,18.74,412.28
+11070,2024-02-26,South,Gadget,Hardware,13,29.46,382.98
+10426,2024-02-26,South,Notebook,Stationery,6,3.27,19.62
+10504,2024-02-26,East,Gadget,Hardware,19,28.35,538.65
+10060,2024-02-27,South,Widget,Hardware,5,13.18,65.9
+10964,2024-02-27,South,Gizmo,Hardware,13,49.9,648.7
+10508,2024-02-27,East,Gizmo,Hardware,17,56.68,963.56
+10669,2024-02-27,West,Notebook,Stationery,12,3.27,39.24
+10193,2024-02-27,North,Widget,Hardware,1,12.84,12.84
+11151,2024-02-27,North,Charger,Electronics,16,19.95,319.2
+10575,2024-02-27,North,Gizmo,Hardware,11,52.09,572.99
+11126,2024-02-27,South,Headset,Electronics,17,76.07,1293.19
+10134,2024-02-28,,Pen Set,Stationery,4,7.95,31.8
+10360,2024-02-28,West,Gadget,Hardware,17,30.56,519.52
+10903,2024-02-29,East,Widget,Hardware,12,,144.0
+11141,2024-02-29,East,Charger,Electronics,21,19.99,419.79
+11090,2024-02-29,South,Notebook,Stationery,3,3.29,9.87
+10900,2024-03-01,North,Gadget,Hardware,13,29.05,377.65
+10490,2024-03-01,North,Gadget,Hardware,24,27.99,671.76
+10036,2024-03-01,West,Headset,Electronics,8,80.22,641.76
+11021,2024-03-01,North,Notebook,Stationery,12,3.34,40.08
+10031,2024-03-02,North,Gadget,Hardware,4,28.3,113.2
+10314,2024-03-02,West,Headset,Electronics,15,,1108.65
+10646,2024-03-02,East,Gadget,Hardware,16,29.46,471.36
+10834,2024-03-02,North,Pen Set,Stationery,8,7.73,61.84
+10422,2024-03-02,East,Pen Set,Stationery,19,8.04,152.76
+10267,2024-03-04,South,Gizmo,Hardware,16,49.72,795.52
+10107,2024-03-05,North,Charger,Electronics,3,20.07,60.21
+11152,2024-03-05,West,Planner,Stationery,15,14.84,222.6
+10652,2024-03-05,East,Gadget,Hardware,14,27.39,383.46
+10684,2024-03-05,West,Charger,Electronics,18,19.98,359.64
+10860,2024-03-05,West,Gadget,Hardware,7,27.32,191.24
+10252,2024-03-06,East,Charger,Electronics,9,19.18,172.62
+10629,2024-03-06,South,Gizmo,Hardware,19,54.67,1038.73
+10802,2024-03-07,North,Gadget,Hardware,23,28.88,664.24
+10264,2024-03-07,North,Pen Set,Stationery,21,7.3,153.3
+10762,2024-03-07,South,Charger,Electronics,24,18.27,438.48
+11102,2024-03-07,West,Pen Set,Stationery,16,7.68,122.88
+10556,2024-03-09,East,Gizmo,Hardware,24,53.35,1280.4
+11190,2024-03-09,East,Headset,Electronics,21,74.42,1562.82
+10094,2024-03-10,North,Gizmo,Hardware,18,56.32,1013.76
+10320,2024-03-10,North,Headset,Electronics,1,85.77,85.77
+10125,2024-03-10,North,Pen Set,Stationery,11,8.1,89.1
+11053,2024-03-10,West,Notebook,Stationery,15,3.14,47.1
+10304,2024-03-11,South,Gizmo,Hardware,3,54.86,164.58
+11147,2024-03-12,West,Planner,Stationery,3,15.79,47.37
+10571,2024-03-12,,Gadget,Hardware,1,28.54,28.54
+10408,2024-03-13,North,Pen Set,Stationery,19,7.07,134.33
+10940,2024-03-13,East,Pen Set,Stationery,24,7.72,185.28
+11031,2024-03-13,North,Gizmo,Hardware,3,54.84,164.52
+10569,2024-03-13,West,Planner,Stationery,17,15.23,258.91
+10236,2024-03-13,South,Charger,Electronics,6,19.89,119.34
+11039,2024-03-14,East,Pen Set,Stationery,23,7.92,182.16
+10469,2024-03-14,East,Headset,Electronics,5,85.6,428.0
+10641,2024-03-14,East,Charger,Electronics,4,19.81,79.24
+10001,2024-03-14,West,Gadget,Hardware,3,27.91,83.73
+10010,2024-03-14,South,Charger,Electronics,18,18.69,336.42
+10947,2024-03-15,West,Headset,Electronics,23,78.3,1800.9
+10162,2024-03-15,North,Headset,Electronics,12,71.99,863.88
+10963,2024-03-16,North,Headset,Electronics,17,79.31,1348.27
+10833,2024-03-16,South,Gadget,Hardware,4,27.77,111.08
+10089,2024-03-16,South,Charger,Electronics,14,19.66,275.24
+10649,2024-03-16,North,Widget,Hardware,4,11.94,47.76
+10110,2024-03-17,East,Gizmo,Hardware,17,54.03,918.51
+10542,2024-03-17,East,Pen Set,Stationery,23,7.21,165.83
+10108,2024-03-17,East,Gizmo,Hardware,13,50.3,653.9
+10814,2024-03-17,South,Pen Set,Stationery,17,7.63,129.71
+10899,2024-03-17,SOUTH,Pen Set,Stationery,12,7.48,89.76
+10863,2024-03-17,North,Headset,Electronics,24,80.98,1943.52
+10213,2024-03-18,East,Gizmo,Hardware,14,56.21,786.94
+10554,2024-03-18,,Planner,Stationery,2,,29.76
+10409,2024-03-18,North,Planner,Stationery,24,14.8,355.2
+10639,2024-03-18,West,Planner,Stationery,23,14.79,340.17
+11162,2024-03-19,North,Headset,Electronics,16,78.16,1250.56
+10114,2024-03-19,East,Gizmo,Hardware,20,52.89,1057.8
+10337,2024-03-19,South,Notebook,Stationery,9,3.21,28.89
+10537,2024-03-19,East,Notebook,Stationery,24,3.03,72.72
+11150,2024-03-20, North,Notebook,Stationery,23,3.31,76.13
+10384,2024-03-20,East,Gizmo,Hardware,6,51.97,311.82
+10722,2024-03-20,North,Headset,Electronics,15,78.35,1175.25
+10233,2024-03-21,South,Notebook,Stationery,23,3.12,71.76
+10257,2024-03-21,North,Planner,Stationery,21,15.47,324.87
+10322,2024-03-21,,Planner,Stationery,10,14.36,143.6
+10908,2024-03-21,East,Notebook,Stationery,7,3.17,22.19
+10020,2024-03-21,North,Gadget,Hardware,14,29.1,407.4
+10961,2024-03-22,North ,Charger,Electronics,12,19.0,228.0
+10087,2024-03-23,North,Headset,Electronics,24,75.63,1815.12
+10950,2024-03-23,South,Headset,Electronics,9,76.97,692.73
+11036,2024-03-23,East,Widget,Hardware,6,13.3,79.8
+10341,2024-03-23,North,Planner,Stationery,14,14.72,206.08
+10494,2024-03-24,South,Widget,Hardware,12,12.5,150.0
+10443,2024-03-24,South,Gadget,Hardware,14,28.24,395.36
+10811,2024-03-24,East,Headset,Electronics,4,,333.16
+10302,2024-03-25,North,Gizmo,Hardware,20,,1044.4
+11022,2024-03-25,North,Headset,Electronics,10,77.35,773.5
+10857,2024-03-26,West,Pen Set,Stationery,15,7.25,108.75
+10909,2024-03-26,North,Charger,Electronics,20,18.73,374.6
+11120,2024-03-26,South,Headset,Electronics,20,74.4,1488.0
+11013,2024-03-27,North,Headset,Electronics,12,81.44,977.28
+10335,2024-03-27,South,Widget,Hardware,12,12.61,151.32
+10385,2024-03-28,West,Charger,Electronics,9,17.97,161.73
+10997,2024-03-28,East ,Notebook,Stationery,19,3.25,61.75
+10565,2024-03-28,West,Pen Set,Stationery,15,7.63,114.45
+10445,2024-03-29,East,Headset,Electronics,8,81.65,653.2
+10174,2024-03-29,East,Gadget,Hardware,3,29.86,89.58
+10019,2024-03-29,North,Gizmo,Hardware,18,,965.52
+10885,2024-03-30,East,Gadget,Hardware,24,27.47,659.28
+10674,2024-03-30,West,Gizmo,Hardware,16,55.09,881.44
+10190,2024-03-30,East,Headset,Electronics,14,75.59,1058.26
+10386,2024-03-30,North,Headset,Electronics,7,80.19,561.33
+10215,2024-03-31,West,Planner,Stationery,7,14.99,104.93
+10379,2024-03-31,West,Headset,Electronics,8,80.36,642.88
+10856,2024-04-01,South,Notebook,Stationery,11,3.1,34.1
+10678,2024-04-02,West,Headset,Electronics,20,71.29,1425.8
+11125,2024-04-03,North,Gizmo,Hardware,12,55.48,665.76
+10558,2024-04-04,North,Pen Set,Stationery,3,7.58,22.74
+10045,2024-04-04,West,Headset,Electronics,14,72.83,1019.62
+10661,2024-04-04,East,Notebook,Stationery,7,3.19,22.33
+10760,2024-04-05,North,Planner,Stationery,24,15.79,378.96
+10790,2024-04-05,West,Gizmo,Hardware,3,51.63,154.89
+10705,2024-04-05,East,Gadget,Hardware,21,28.31,594.51
+10344,2024-04-05,EAST,Planner,Stationery,5,15.41,77.05
+11168,2024-04-06,East,Charger,Electronics,17,20.02,340.34
+10122,2024-04-06,East,Pen Set,Stationery,7,7.47,52.29
+10002,2024-04-06,North,Planner,Stationery,17,15.28,259.76
+10138,2024-04-06,North,Widget,Hardware,7,11.59,81.13
+10123,2024-04-06,North,Pen Set,Stationery,22,8.11,178.42
+10281,2024-04-06,North,Gizmo,Hardware,2,55.42,110.84
+10835,2024-04-07,West,Gadget,Hardware,17,28.88,490.96
+10349,2024-04-07,East,Notebook,Stationery,24,3.19,76.56
+10129,2024-04-07,South,Pen Set,Stationery,13,7.92,102.96
+11097,2024-04-07,East,Gizmo,Hardware,8,54.72,437.76
+10032,2024-04-08,East,Notebook,Stationery,20,3.21,64.2
+10708,2024-04-08,East,Planner,Stationery,19,14.04,266.76
+10316,2024-04-09,North,Pen Set,Stationery,8,8.04,64.32
+11166,2024-04-09,WEST,Charger,Electronics,17,19.52,331.84
+10817,2024-04-09, South,Widget,Hardware,2,11.89,23.78
+10166,2024-04-09,South,Notebook,Stationery,22,3.19,70.18
+10306,2024-04-09,East,Gadget,Hardware,6,28.67,172.02
+10453,2024-04-09,West,Gizmo,Hardware,8,56.54,452.32
+11067,2024-04-10, East,Pen Set,Stationery,23,7.54,173.42
+10906,2024-04-10,South,Pen Set,Stationery,4,8.13,32.52
+10057,2024-04-10,East,Widget,Hardware,18,13.05,234.9
+11037,2024-04-11,West,Pen Set,Stationery,24,7.89,189.36
+10522,2024-04-12,South,Gadget,Hardware,2,28.71,57.42
+10765,2024-04-12,South,Gizmo,Hardware,5,52.36,261.8
+10120,2024-04-12,South,Pen Set,Stationery,1,7.95,7.95
+10730,2024-04-12,South,Gadget,Hardware,6,30.73,184.38
+10525,2024-04-12,South,Gizmo,Hardware,1,54.36,54.36
+10579,2024-04-12,East,Gadget,Hardware,21,29.01,609.21
+10685,2024-04-12,East,Gadget,Hardware,2,29.99,59.98
+10546,2024-04-12,East,Notebook,Stationery,14,3.13,43.82
+11047,2024-04-12,West,Headset,Electronics,15,82.92,1243.8
+10434,2024-04-12, North,Widget,Hardware,23,12.42,285.66
+10883,2024-04-13,East,Gadget,Hardware,16,,441.6
+11085,2024-04-13,West,Pen Set,Stationery,11,7.93,87.23
+11135,2024-04-14,North ,Headset,Electronics,7,78.67,550.69
+10858,2024-04-14,South,Planner,Stationery,15,15.06,225.9
+10351,2024-04-15,South,Widget,Hardware,24,12.24,293.76
+10969,2024-04-15,West,Pen Set,Stationery,4,7.33,29.32
+10785,2024-04-15,East,Gizmo,Hardware,10,54.47,544.7
+11117,2024-04-15,North,Headset,Electronics,21,76.65,1609.65
+10011,2024-04-16,South,Widget,Hardware,10,12.94,129.4
+10552,2024-04-16,North,Pen Set,Stationery,16,7.86,125.76
+10999,2024-04-16,South ,Planner,Stationery,23,15.34,352.82
+10118,2024-04-16,South,Gadget,Hardware,10,29.32,293.2
+10141,2024-04-16,East,Charger,Electronics,20,,412.0
+10495,2024-04-16,West,Notebook,Stationery,20,3.18,63.6
+10676,2024-04-17,North,Gadget,Hardware,19,28.5,541.5
+10012,2024-04-17,East,Gadget,Hardware,8,30.14,241.12
+10709,2024-04-18,East,Widget,Hardware,12,11.81,141.72
+10897,2024-04-19,West,Gadget,Hardware,10,28.09,280.9
+10901,2024-04-20,South,Planner,Stationery,7,15.76,110.32
+10016,2024-04-20,East,Gadget,Hardware,2,28.14,56.28
+11103,2024-04-20,North,Planner,Stationery,7,15.01,105.07
+10391,2024-04-20,North,Gizmo,Hardware,19,55.13,1047.47
+10211,2024-04-20,East,Notebook,Stationery,15,3.5,52.5
+10962,2024-04-20,South,Charger,Electronics,1,19.03,19.03
+10261,2024-04-20,West,Gadget,Hardware,20,27.93,558.6
+10781,2024-04-21,South,Notebook,Stationery,16,3.37,53.92
+10519,2024-04-22,North,Headset,Electronics,6,78.2,469.2
+10921,2024-04-22,south,Widget,Hardware,18,12.56,226.08
+10628,2024-04-22, West,Pen Set,Stationery,9,8.05,72.45
+10148,2024-04-22,North,Notebook,Stationery,10,3.15,31.5
+10770,2024-04-23,East,Widget,Hardware,24,12.49,299.76
+10205,2024-04-23,North,Pen Set,Stationery,10,6.92,69.2
+11025,2024-04-24,North,Gadget,Hardware,16,28.01,448.16
+11029,2024-04-24,East,Pen Set,Stationery,23,7.55,173.65
+11004,2024-04-24,South,Charger,Electronics,8,,156.0
+10208,2024-04-24,West,Gizmo,Hardware,7,53.57,374.99
+10486,2024-04-24,South,Notebook,Stationery,14,3.06,42.84
+10831,2024-04-26,North,Notebook,Stationery,20,3.23,64.6
+10432,2024-04-26,NORTH,Planner,Stationery,21,15.35,322.35
+10133,2024-04-26,South,Planner,Stationery,6,14.97,89.82
+10777,2024-04-26,South,Headset,Electronics,18,76.76,1381.68
+10497,2024-04-26,South,Widget,Hardware,13,12.71,165.23
+10982,2024-04-27,EAST,Planner,Stationery,12,13.87,166.44
+10038,2024-04-27,West,Pen Set,Stationery,5,7.93,39.65
+10673,2024-04-27,West,Headset,Electronics,2,79.63,159.26
+10675,2024-04-27,East,Planner,Stationery,22,,326.7
+10706,2024-04-27,South,Gadget,Hardware,11,27.96,307.56
+10957,2024-04-28,North,Charger,Electronics,19,18.15,344.85
+10727,2024-04-28,West,Charger,Electronics,20,18.59,371.8
+11026,2024-04-28,East,Planner,Stationery,18,15.16,272.88
+10149,2024-04-29,North,Widget,Hardware,23,12.29,282.67
+10310,2024-04-29,East,Charger,Electronics,17,18.87,320.79
+10219,2024-04-29,East,Notebook,Stationery,3,3.23,9.69
+10911,2024-04-29,East,Notebook,Stationery,11,3.09,33.99
+10714,2024-04-29,North,Gadget,Hardware,18,28.89,520.02
+10838,2024-04-30,South,Gizmo,Hardware,3,59.4,178.2
+10049,2024-04-30,North,Headset,Electronics,8,82.34,658.72
+10670,2024-04-30,North,Planner,Stationery,24,14.44,346.56
+10206,2024-04-30,East,Gadget,Hardware,9,30.39,273.51
+10738,2024-04-30,South,Planner,Stationery,1,15.4,15.4
+10103,2024-05-01,South,Pen Set,Stationery,12,8.1,97.2
+11186,2024-05-01,East,Pen Set,Stationery,12,,91.44
+10035,2024-05-01,West,Planner,Stationery,12,15.44,185.28
+10048,2024-05-02,South,Headset,Electronics,18,82.28,1481.04
+10622,2024-05-02,South,Notebook,Stationery,5,3.21,16.05
+10888,2024-05-02,North,Charger,Electronics,21,20.71,434.91
+10327,2024-05-03,,Widget,Hardware,1,12.83,12.83
+10934,2024-05-04,South,Widget,Hardware,3,12.13,36.39
+10172,2024-05-04,South,Notebook,Stationery,8,3.11,24.88
+10069,2024-05-04,East,Gizmo,Hardware,18,55.13,992.34
+11173,2024-05-05,North,Pen Set,Stationery,17,7.61,129.37
+10353,2024-05-06,West,Widget,Hardware,12,12.83,153.96
+10153,2024-05-06,North,Widget,Hardware,7,12.13,84.91
+10645,2024-05-06,West,Notebook,Stationery,21,3.24,68.04
+10039,2024-05-07,East,Gizmo,Hardware,4,56.78,227.12
+10192,2024-05-07,West,Gizmo,Hardware,24,53.91,1293.84
+10977,2024-05-07,North,Planner,Stationery,14,15.45,216.3
+10041,2024-05-08,North,Gadget,Hardware,13,30.12,391.56
+10949,2024-05-09,South,Pen Set,Stationery,13,7.21,93.73
+11181,2024-05-09,East,Notebook,Stationery,23,3.09,71.07
+10606,2024-05-09,East,Headset,Electronics,6,78.41,470.46
+10739,2024-05-10,East,Widget,Hardware,24,12.65,303.6
+10930,2024-05-11,South,Charger,Electronics,4,17.68,70.72
+10875,2024-05-11,East,Widget,Hardware,10,12.83,128.3
+10326,2024-05-11,South,Widget,Hardware,4,12.67,50.68
+10113,2024-05-11,West,Charger,Electronics,14,18.95,265.3
+10842,2024-05-12,East,Charger,Electronics,23,19.47,447.81
+10895,2024-05-12,West,Planner,Stationery,18,15.32,275.76
+10250,2024-05-12,North,Gadget,Hardware,9,,259.11
+11197,2024-05-15,North,Pen Set,Stationery,6,8.05,48.3
+11096,2024-05-15,West,Pen Set,Stationery,10,7.87,78.7
+10151,2024-05-15,East,Notebook,Stationery,18,3.14,56.52
+10768,2024-05-17,South,Pen Set,Stationery,8,8.12,64.96
+10939,2024-05-17,West,Planner,Stationery,21,14.97,314.37
+10050,2024-05-17,West,Gadget,Hardware,20,29.13,582.6
+10065,2024-05-18,North,Notebook,Stationery,6,3.13,18.78
+10804,2024-05-18,North,Headset,Electronics,3,76.96,230.88
+10296,2024-05-18,East,Headset,Electronics,13,77.43,1006.59
+11121,2024-05-18,South,Pen Set,Stationery,20,,161.6
+10953,2024-05-18,north,Gadget,Hardware,6,29.57,177.42
+10958,2024-05-18,North,Gizmo,Hardware,7,54.79,383.53
+10427,2024-05-19,South,Planner,Stationery,15,15.23,228.45
+10776,2024-05-19,South,Pen Set,Stationery,17,7.71,131.07
+10042,2024-05-19,East,Gadget,Hardware,20,29.32,586.4
+10584,2024-05-19,North,Notebook,Stationery,3,3.32,9.96
+10766,2024-05-20,East,Planner,Stationery,4,15.34,61.36
+10640,2024-05-20,North,Notebook,Stationery,1,3.14,3.14
+11054,2024-05-21,South,Planner,Stationery,22,15.73,346.06
+10686,2024-05-21,,Gizmo,Hardware,7,57.02,399.14
+10588,2024-05-21,South,Notebook,Stationery,23,3.12,71.76
+10545,2024-05-21,South,Charger,Electronics,22,19.51,429.22
+11069,2024-05-22,East,Gadget,Hardware,1,27.54,27.54
+10225,2024-05-22,West,Widget,Hardware,1,12.62,12.62
+10303,2024-05-22,North,Gizmo,Hardware,13,52.41,681.33
+10996,2024-05-22,South,Gizmo,Hardware,20,53.91,1078.2
+10156,2024-05-22,East,Notebook,Stationery,16,3.4,54.4
+10380,2024-05-22,South,Gizmo,Hardware,2,52.6,105.2
+10477,2024-05-23,North,Charger,Electronics,16,20.23,323.68
+10633,2024-05-23,East,Planner,Stationery,13,14.86,193.18
+10085,2024-05-23,South,Gadget,Hardware,3,28.8,86.4
+11198,2024-05-23,West,Gizmo,Hardware,16,53.01,848.16
+10732,2024-05-23,North,Headset,Electronics,1,77.62,77.62
+10500,2024-05-23,East,Gadget,Hardware,15,28.73,430.95
+10055,2024-05-24,South,Notebook,Stationery,8,3.02,24.16
+10403,2024-05-24,North,Gadget,Hardware,13,29.6,384.8
+10898,2024-05-24,,Charger,Electronics,6,18.88,113.28
+10995,2024-05-25,North,Pen Set,Stationery,8,7.9,63.2
+11160,2024-05-25,,Notebook,Stationery,6,3.33,19.98
+10280,2024-05-25,North,Gadget,Hardware,14,28.22,395.08
+10406,2024-05-26,North,Planner,Stationery,6,14.9,89.4
+10985,2024-05-26,South,Notebook,Stationery,7,3.32,23.24
+10204,2024-05-26,West,Notebook,Stationery,12,3.24,38.88
+11077,2024-05-27,South,Widget,Hardware,15,12.73,190.95
+11075,2024-05-27,East,Notebook,Stationery,18,3.34,60.12
+10479,2024-05-28,North,Gadget,Hardware,8,31.27,250.16
+10450,2024-05-28,South,Pen Set,Stationery,18,7.8,140.4
+10169,2024-05-29,East,Gadget,Hardware,17,29.19,496.23
+10607,2024-05-29,West,Charger,Electronics,9,19.08,171.72
+10841,2024-05-29,South,Notebook,Stationery,1,3.01,3.01
+10808,2024-05-29,South,Planner,Stationery,12,15.43,185.16
+10651,2024-05-29,South,Pen Set,Stationery,19,8.0,152.0
+10967,2024-05-29,East,Planner,Stationery,22,15.11,332.42
+10627,2024-05-30,North,Gizmo,Hardware,4,54.55,218.2
+10747,2024-05-30,South,Widget,Hardware,6,11.79,70.74
+10221,2024-05-30,East,Notebook,Stationery,13,3.1,40.3
+10664,2024-05-30,North,Gizmo,Hardware,9,49.71,447.39
+11163,2024-05-31,South,Pen Set,Stationery,22,7.89,173.58
+10373,2024-05-31,South,Widget,Hardware,17,12.48,212.16
+10402,2024-06-01,West,Planner,Stationery,21,15.24,320.04
+11199,2024-06-01,East,Headset,Electronics,12,80.61,967.32
+11119,2024-06-01,East,Charger,Electronics,14,18.22,255.08
+10779,2024-06-01,South,Headset,Electronics,6,,488.04
+10062,2024-06-01,North,Notebook,Stationery,17,3.08,52.36
+10329,2024-06-02,WEST,Notebook,Stationery,7,3.1,21.7
+10618,2024-06-02,West,Widget,Hardware,16,12.13,194.08
+10978,2024-06-03,East,Pen Set,Stationery,23,8.01,184.23
+10677,2024-06-03,,Gizmo,Hardware,3,54.02,162.06
+10975,2024-06-03,South,Gizmo,Hardware,12,53.65,643.8
+10047,2024-06-03,East,Planner,Stationery,6,13.69,82.14
+10647,2024-06-03,North,Pen Set,Stationery,5,7.6,38.0
+11142,2024-06-03,North,Planner,Stationery,1,14.65,14.65
+10912,2024-06-03,North,Planner,Stationery,24,15.12,362.88
+10105,2024-06-03,East,Planner,Stationery,1,13.98,13.98
+10869,2024-06-03,East,Planner,Stationery,17,14.82,251.94
+10720,2024-06-04,West,Gizmo,Hardware,1,52.83,52.83
+10119,2024-06-05,,Charger,Electronics,8,21.4,171.2
+10937,2024-06-06,West,Pen Set,Stationery,9,7.54,67.86
+10892,2024-06-06,North,Charger,Electronics,6,19.69,118.14
+10503,2024-06-07,West,Charger,Electronics,17,19.59,333.03
+11027,2024-06-07,South,Planner,Stationery,19,14.67,278.73
+10736,2024-06-07,West,Headset,Electronics,20,81.26,1625.2
+10216,2024-06-07,West,Charger,Electronics,23,18.84,433.32
+10362,2024-06-07,East,Planner,Stationery,21,14.77,310.17
+10397,2024-06-08,West,Planner,Stationery,2,14.5,29.0
+10231,2024-06-08,north,Planner,Stationery,9,16.22,145.98
+10483,2024-06-09,East,Headset,Electronics,15,84.72,1270.8
+10648,2024-06-09,South,Widget,Hardware,3,11.84,35.52
+10202,2024-06-09,,Gadget,Hardware,4,28.08,112.32
+10970,2024-06-09,North,Gadget,Hardware,1,29.43,29.43
+10913,2024-06-09,East,Widget,Hardware,24,12.74,305.76
+10077,2024-06-09,North,Gadget,Hardware,13,29.36,381.68
+10845,2024-06-10,South,Gizmo,Hardware,2,51.9,103.8
+11041,2024-06-10,East,Headset,Electronics,16,79.29,1268.64
+10226,2024-06-10,East,Headset,Electronics,13,80.86,1051.18
+10198,2024-06-10,West,Widget,Hardware,23,11.62,267.26
+10585,2024-06-10,East,Planner,Stationery,9,15.48,139.32
+10444,2024-06-11,North,Pen Set,Stationery,2,7.46,14.92
+10136,2024-06-11,North,Pen Set,Stationery,18,7.89,142.02
+10655,2024-06-12,West,Gizmo,Hardware,21,53.63,1126.23
+10689,2024-06-12,South,Gadget,Hardware,18,29.54,531.72
+10396,2024-06-12,West,Charger,Electronics,4,19.59,78.36
+10027,2024-06-12,North,Notebook,Stationery,16,3.18,50.88
+10742,2024-06-12,North,Charger,Electronics,7,20.69,144.83
+10480,2024-06-12,East,Planner,Stationery,3,,44.76
+10805,2024-06-13,West,Charger,Electronics,21,18.59,390.39
+10470,2024-06-13,East,Planner,Stationery,14,15.39,215.46
+10258,2024-06-13,East,Notebook,Stationery,24,3.17,76.08
+10111,2024-06-13,North,Pen Set,Stationery,1,8.27,8.27
+11196,2024-06-13,South,Notebook,Stationery,15,3.21,48.15
+10146,2024-06-14,West,Gizmo,Hardware,3,53.22,159.66
+11192,2024-06-14,North,Gadget,Hardware,10,30.54,305.4
+10716,2024-06-15,North,Gizmo,Hardware,22,51.37,1130.14
+10109,2024-06-15,West,Planner,Stationery,12,15.4,184.8
+11130,2024-06-15,North,Charger,Electronics,14,20.26,283.64
+10212,2024-06-15,North,Pen Set,Stationery,9,7.61,68.49
+10820,2024-06-16,North,Gadget,Hardware,12,27.62,331.44
+10194,2024-06-16,North,Charger,Electronics,22,20.6,453.2
+10447,2024-06-16,North,Headset,Electronics,21,81.45,1710.45
+10286,2024-06-17,West,Gadget,Hardware,2,28.99,57.98
+10920,2024-06-17,West,Charger,Electronics,11,18.39,202.29
+10436,2024-06-17,,Pen Set,Stationery,6,8.39,50.34
+10505,2024-06-17, South,Widget,Hardware,19,12.92,245.48
+10375,2024-06-17,west,Gadget,Hardware,8,28.5,228.0
+10577,2024-06-18,West,Headset,Electronics,7,77.87,545.09
+10356,2024-06-18,East,Notebook,Stationery,5,3.31,16.55
+10013,2024-06-18,East,Headset,Electronics,7,76.01,532.07
+10915,2024-06-19,North,Gizmo,Hardware,15,57.34,860.1
+10323,2024-06-19,West,Gizmo,Hardware,22,54.68,1202.96
+10321,2024-06-19,East,Headset,Electronics,2,75.24,150.48
+10102,2024-06-20,East,Planner,Stationery,3,15.73,47.19
+11113,2024-06-20,West,Planner,Stationery,22,15.16,333.52
+10235,2024-06-20,North,Charger,Electronics,21,19.46,408.66
+10059,2024-06-20,North,Gadget,Hardware,23,29.08,668.84
+10619,2024-06-21,West,Charger,Electronics,20,18.94,378.8
+10793,2024-06-21,South,Charger,Electronics,16,19.76,316.16
+10203,2024-06-21,South,Pen Set,Stationery,7,7.77,54.39
+10026,2024-06-21,North,Widget,Hardware,8,11.53,92.24
+10499,2024-06-21,North ,Headset,Electronics,24,87.03,2088.72
+10116,2024-06-21,South,Notebook,Stationery,5,3.1,15.5
+10840,2024-06-21, North,Notebook,Stationery,20,3.37,67.4
+10186,2024-06-21,West,Pen Set,Stationery,21,7.87,165.27
+10485,2024-06-21,South,Widget,Hardware,9,12.8,115.2
+10008,2024-06-21,South,Headset,Electronics,11,79.79,877.69
+10907,2024-06-22,West,Widget,Hardware,17,12.75,216.75
+10200,2024-06-22,North,Pen Set,Stationery,9,7.6,68.4
+11042,2024-06-23,south,Widget,Hardware,9,12.7,2857.5
+11131,2024-06-23,North,Notebook,Stationery,4,3.22,12.88
+10255,2024-06-24,South,Notebook,Stationery,15,2.9,43.5
+10081,2024-06-25,South,Gizmo,Hardware,11,57.96,637.56
+10043,2024-06-25,West,Headset,Electronics,5,86.22,431.1
+10671,2024-06-25,North,Headset,Electronics,14,83.3,1166.2
+10847,2024-06-25,North,Gadget,Hardware,7,29.41,205.87
+10988,2024-06-26,South,Gizmo,Hardware,13,52.89,687.57
+10871,2024-06-26,West,Pen Set,Stationery,24,7.21,173.04
+11020,2024-06-27,East,Headset,Electronics,7,80.63,564.41
+10243,2024-06-27,East,Gadget,Hardware,8,27.84,222.72
+10368,2024-06-28,South,Gadget,Hardware,20,29.71,594.2
+10091,2024-06-29,South,Widget,Hardware,21,12.17,255.57
+10234,2024-06-29,South,Planner,Stationery,5,14.69,73.45
+10167,2024-06-29,North,Headset,Electronics,13,79.47,1033.11
+10515,2024-06-29,North,Headset,Electronics,3,67.11,201.33
+10866,2024-06-29,West,Gadget,Hardware,24,29.86,716.64
+10759,2024-06-29,South,Gadget,Hardware,13,29.74,386.62
+10101,2024-06-29,North,Gadget,Hardware,18,29.73,535.14
+10355,2024-06-30,South,Gadget,Hardware,23,28.72,660.56
+10837,2024-06-30,South,Pen Set,Stationery,9,7.6,68.4
+10366,2024-06-30,South,Headset,Electronics,19,76.16,1447.04
+11118,2024-06-30,West,Widget,Hardware,1,12.7,12.7
+10591,2024-06-30,North,Gizmo,Hardware,7,52.52,367.64
+10774,2024-06-30,West,Gadget,Hardware,7,28.65,200.55
+10761,2024-07-01,North,Charger,Electronics,5,19.82,99.1
+10431,2024-07-01,WEST,Pen Set,Stationery,2,,16.98
+10372,2024-07-01,South,Planner,Stationery,17,15.56,264.52
+11000,2024-07-01,North,Notebook,Stationery,11,3.2,35.2
+10454,2024-07-01,East,Pen Set,Stationery,6,7.56,45.36
+10214,2024-07-02,North,Widget,Hardware,7,12.66,88.62
+10393,2024-07-02,North,Charger,Electronics,2,19.3,38.6
+10317,2024-07-02,West,Planner,Stationery,5,15.35,76.75
+11043,2024-07-02,West,Gizmo,Hardware,9,53.96,485.64
+10183,2024-07-03,West,Widget,Hardware,1,12.18,12.18
+10741,2024-07-03,North,Widget,Hardware,2,,23.78
+10021,2024-07-03,West,Notebook,Stationery,3,3.43,10.29
+10758,2024-07-04,North,Widget,Hardware,19,12.46,236.74
+10795,2024-07-04,North,Charger,Electronics,2,,41.98
+10370,2024-07-04,East,Widget,Hardware,11,12.68,139.48
+10229,2024-07-05,North,Notebook,Stationery,11,3.16,34.76
+10424,2024-07-05,East,Headset,Electronics,8,82.7,661.6
+10623,2024-07-05,East,Planner,Stationery,23,15.13,347.99
+10616,2024-07-05,south,Notebook,Stationery,16,3.04,48.64
+10298,2024-07-05,North,Widget,Hardware,19,12.52,237.88
+10084,2024-07-05,North,Gadget,Hardware,22,29.75,654.5
+11051,2024-07-06,South,Gizmo,Hardware,14,53.8,753.2
+10594,2024-07-06,West,Widget,Hardware,20,12.26,245.2
+10014,2024-07-06,South,Widget,Hardware,17,11.95,203.15
+10462,2024-07-06,North,Gadget,Hardware,19,30.14,572.66
+10333,2024-07-06,North,Planner,Stationery,4,14.87,59.48
+10367,2024-07-07,North,Headset,Electronics,16,77.23,1235.68
+10916,2024-07-08,East,Widget,Hardware,13,,166.01
+10644,2024-07-08,West,Gizmo,Hardware,9,53.9,485.1
+10242,2024-07-08,North,Planner,Stationery,4,13.95,55.8
+10586,2024-07-08,North,Planner,Stationery,21,15.46,324.66
+11048,2024-07-08,North,Widget,Hardware,16,12.55,200.8
+10666,2024-07-08,East,Charger,Electronics,23,18.98,436.54
+10772,2024-07-09,North,Notebook,Stationery,2,3.29,6.58
+10383,2024-07-09,East,Charger,Electronics,13,20.16,262.08
+10509,2024-07-09,South,Widget,Hardware,12,12.1,145.2
+10005,2024-07-10,South,Gizmo,Hardware,1,57.57,57.57
+10991,2024-07-10,,Pen Set,Stationery,21,7.82,164.22
+10456,2024-07-10,North,Planner,Stationery,7,14.3,100.1
+10862,2024-07-10,North,Pen Set,Stationery,20,7.83,156.6
+11033,2024-07-10,South,Charger,Electronics,10,18.78,187.8
+10173,2024-07-11,West,Gizmo,Hardware,15,53.4,801.0
+10665,2024-07-11,North,Charger,Electronics,2,18.82,37.64
+10699,2024-07-11,East,Pen Set,Stationery,6,7.54,45.24
+11114,2024-07-11,North,Headset,Electronics,7,79.26,13870.500000000002
+10954,2024-07-11,North,Planner,Stationery,15,14.26,213.9
+10704,2024-07-14,West,Pen Set,Stationery,2,7.59,15.18
+10543,2024-07-15,East,Pen Set,Stationery,1,8.03,8.03
+10078,2024-07-15,North,Charger,Electronics,1,20.19,20.19
+10822,2024-07-15,South,Gizmo,Hardware,11,50.29,553.19
+10446,2024-07-15,East,Planner,Stationery,11,15.12,166.32
+11165,2024-07-16,South,Pen Set,Stationery,14,7.35,102.9
+10926,2024-07-16,North,Gizmo,Hardware,13,53.84,699.92
+10357,2024-07-16,South,Pen Set,Stationery,23,8.12,186.76
+10187,2024-07-16,South,Pen Set,Stationery,14,7.62,106.68
+10998,2024-07-16,South,Gadget,Hardware,2,26.37,52.74
+10560,2024-07-17,East,Widget,Hardware,2,12.28,24.56
+10159,2024-07-19,East,Planner,Stationery,6,14.89,89.34
+10935,2024-07-20,East,Gizmo,Hardware,11,57.38,631.18
+10536,2024-07-20,South,Notebook,Stationery,6,3.17,19.02
+11011,2024-07-20,North,Gizmo,Hardware,17,54.47,925.99
+10728,2024-07-20,North,Planner,Stationery,17,15.44,262.48
+10465,2024-07-20,North,Notebook,Stationery,7,3.19,22.33
+11006,2024-07-20,North,Gizmo,Hardware,22,50.34,1107.48
+11055,2024-07-20,South,Gadget,Hardware,11,29.33,322.63
+11099,2024-07-20,North,Charger,Electronics,7,20.55,143.85
+10658,2024-07-21, East,Charger,Electronics,22,18.75,412.5
+10288,2024-07-21,West,Gadget,Hardware,10,28.38,283.8
+10723,2024-07-21,North,Widget,Hardware,20,12.12,242.4
+11057,2024-07-21,North,Notebook,Stationery,14,3.15,44.1
+11030,2024-07-21,East,Widget,Hardware,16,11.54,184.64
+11068,2024-07-21,West,Planner,Stationery,20,15.84,316.8
+10712,2024-07-22,North ,Gadget,Hardware,4,30.85,123.4
+10217,2024-07-22,North,Pen Set,Stationery,11,7.69,84.59
+10851,2024-07-23,East,Notebook,Stationery,15,3.35,50.25
+10530,2024-07-23,West,Pen Set,Stationery,6,7.34,44.04
+10944,2024-07-23,North,Gadget,Hardware,14,29.12,407.68
+11175,2024-07-24,South,Gadget,Hardware,2,29.26,58.52
+10849,2024-07-24,North,Headset,Electronics,9,78.0,702.0
+10061,2024-07-24,South,Headset,Electronics,3,78.28,234.84
+10263,2024-07-25,South,Notebook,Stationery,5,3.49,17.45
+10412,2024-07-26,East,Gizmo,Hardware,17,53.23,904.91
+11001,2024-07-26,East,Charger,Electronics,3,19.68,59.04
+10223,2024-07-27,South,Headset,Electronics,2,79.29,158.58
+11082,2024-07-27,North,Gadget,Hardware,6,,169.38
+10737,2024-07-27,North,Pen Set,Stationery,3,7.79,23.37
+11045,2024-07-27,East,Charger,Electronics,24,18.83,451.92
+10541,2024-07-28,,Gadget,Hardware,20,28.47,569.4
+10423,2024-07-28,North,Widget,Hardware,22,12.0,264.0
+10161,2024-07-28,SOUTH,Headset,Electronics,19,77.63,1474.97
+10262,2024-07-28,North,Gadget,Hardware,12,29.42,353.04
+10256,2024-07-29,North,Gadget,Hardware,1,29.15,29.15
+10663,2024-07-30,South,Gizmo,Hardware,6,55.44,332.64
+11093,2024-07-30,North,Headset,Electronics,17,,1365.27
+10022,2024-07-30,East,Pen Set,Stationery,21,8.15,171.15
+10753,2024-07-30,North,Pen Set,Stationery,18,7.73,139.14
+10642,2024-07-30,North,Charger,Electronics,23,20.3,466.9
+11124,2024-07-31,South,Planner,Stationery,7,15.64,109.48
+10168,2024-07-31,,Pen Set,Stationery,9,7.67,69.03
+11005,2024-08-01,South,Gadget,Hardware,10,28.55,285.5
+10473,2024-08-02,North,Planner,Stationery,17,14.41,244.97
+10763,2024-08-02,East,Widget,Hardware,23,11.97,275.31
+10074,2024-08-02,North,Notebook,Stationery,20,3.12,62.4
+10538,2024-08-02,East,Planner,Stationery,15,14.94,224.1
+10266,2024-08-02,West,Widget,Hardware,15,12.88,193.2
+10668,2024-08-03,East,Widget,Hardware,12,12.85,154.2
+10711,2024-08-04,South,Widget,Hardware,6,12.27,73.62
+11058,2024-08-04,East,Gadget,Hardware,16,26.9,430.4
+10535,2024-08-04,North,Pen Set,Stationery,8,7.5,60.0
+10265,2024-08-04,South,Gizmo,Hardware,9,49.67,447.03
+10843,2024-08-04,East,Notebook,Stationery,15,3.47,52.05
+11052,2024-08-04,South,Charger,Electronics,17,17.83,303.11
+10363,2024-08-04,West,Gizmo,Hardware,15,55.5,832.5
+11194,2024-08-06,North,Planner,Stationery,3,14.79,44.37
+10872,2024-08-07,North,Headset,Electronics,20,77.9,1558.0
+10124,2024-08-07,East,Notebook,Stationery,16,3.24,51.84
+10752,2024-08-07,South,Gizmo,Hardware,17,55.55,944.35
+10654,2024-08-07,South,Gizmo,Hardware,22,54.61,1201.42
+11018,2024-08-08,East,Planner,Stationery,12,14.29,171.48
+10307,2024-08-08,East,Gadget,Hardware,4,29.99,119.96
+11089,2024-08-08,South,Pen Set,Stationery,21,7.93,166.53
+10294,2024-08-08,West,Gadget,Hardware,6,26.78,160.68
+10693,2024-08-08,East,Pen Set,Stationery,19,7.56,143.64
+10580,2024-08-08,South,Charger,Electronics,19,19.87,377.53
+10510,2024-08-09,South,Headset,Electronics,23,82.05,1887.15
+10271,2024-08-10,North,Pen Set,Stationery,19,7.26,137.94
+10482,2024-08-10,North,Charger,Electronics,2,21.03,42.06
+10806,2024-08-11,West,Headset,Electronics,11,75.0,825.0
+11179,2024-08-11,South,Planner,Stationery,8,15.97,127.76
+11105,2024-08-11,South,Gadget,Hardware,9,29.05,261.45
+10283,2024-08-11,West,Headset,Electronics,24,79.91,1917.84
+10782,2024-08-11,West,Notebook,Stationery,12,3.04,36.48
+10905,2024-08-11,South,Widget,Hardware,13,13.22,171.86
+10931,2024-08-11,South,Gadget,Hardware,10,28.57,285.7
+10080,2024-08-13,South,Widget,Hardware,19,12.05,228.95
+10201,2024-08-13,West,Gadget,Hardware,14,28.03,392.42
+10003,2024-08-14,East,Widget,Hardware,2,13.17,26.34
+10713,2024-08-14,South,Pen Set,Stationery,10,7.49,74.9
+10751,2024-08-15,North,Pen Set,Stationery,18,7.51,135.18
+10491,2024-08-15,East,Headset,Electronics,18,83.19,1497.42
+10076,2024-08-15,East ,Charger,Electronics,15,21.22,318.3
+11072,2024-08-15,South,Pen Set,Stationery,24,7.68,184.32
+10090,2024-08-15,East,Gizmo,Hardware,1,53.7,53.7
+10506,2024-08-16,West,Gadget,Hardware,4,29.25,117.0
+10679,2024-08-16,East,Planner,Stationery,17,15.63,265.71
+11132,2024-08-16,North,Widget,Hardware,19,12.31,233.89
+10924,2024-08-16,North,Gadget,Hardware,1,28.84,28.84
+10564,2024-08-16,West,Pen Set,Stationery,4,8.2,32.8
+10175,2024-08-17,South,Planner,Stationery,16,15.0,240.0
+10976,2024-08-17,south,Pen Set,Stationery,7,7.95,55.65
+10551,2024-08-17,East,Charger,Electronics,1,18.36,18.36
+10590,2024-08-17,West,Headset,Electronics,11,78.17,859.87
+10218,2024-08-17,East,Gadget,Hardware,5,29.6,148.0
+10690,2024-08-18,North,Pen Set,Stationery,8,7.41,59.28
+10088,2024-08-19,West,Pen Set,Stationery,11,7.9,86.9
+10411,2024-08-19,North,Notebook,Stationery,14,3.22,45.08
+10927,2024-08-19,South,Charger,Electronics,18,19.35,8707.5
+10484,2024-08-19,South,Charger,Electronics,16,19.48,311.68
+10797,2024-08-21,,Pen Set,Stationery,10,7.99,79.9
+10199,2024-08-21,South,Pen Set,Stationery,23,7.65,175.95
+10533,2024-08-21,East,Planner,Stationery,3,16.27,48.81
+10807,2024-08-22,South,Planner,Stationery,20,15.24,304.8
+10568,2024-08-22,East,Gizmo,Hardware,18,54.59,982.62
+10789,2024-08-23,North,Charger,Electronics,4,19.3,77.2
+10056,2024-08-23,North,Gizmo,Hardware,11,52.81,580.91
+10746,2024-08-23,West,Widget,Hardware,12,13.17,158.04
+11106,2024-08-24,East,Headset,Electronics,22,82.42,1813.24
+11060,2024-08-24,North,Planner,Stationery,10,15.74,157.4
+11064,2024-08-24,East ,Charger,Electronics,16,20.03,320.48
+10846,2024-08-24,South,Widget,Hardware,19,11.75,223.25
+11023,2024-08-24,West,Planner,Stationery,24,15.24,365.76
+10617,2024-08-24,South,Notebook,Stationery,16,3.36,53.76
+10884,2024-08-24,East,Gizmo,Hardware,13,53.46,694.98
+11129,2024-08-25,West,Gizmo,Hardware,12,50.81,609.72
+10815,2024-08-25,East,Gadget,Hardware,22,29.44,647.68
+10787,2024-08-25,West,Pen Set,Stationery,4,7.44,29.76
+10285,2024-08-25,North,Pen Set,Stationery,8,7.63,61.04
+10660,2024-08-25,South,Gadget,Hardware,13,27.2,353.6
+10979,2024-08-25,South,Headset,Electronics,9,80.15,721.35
+10880,2024-08-26,East,Widget,Hardware,14,12.29,172.06
+10656,2024-08-26,North,Headset,Electronics,1,77.26,77.26
+10023,2024-08-26,North,Headset,Electronics,19,81.6,1550.4
+10973,2024-08-27,South,Charger,Electronics,6,19.72,118.32
+10657,2024-08-27,West,Planner,Stationery,12,14.95,179.4
+10987,2024-08-27,East,Headset,Electronics,21,77.05,1618.05
+10301,2024-08-27,North,Gizmo,Hardware,2,50.39,100.78
+10155,2024-08-28,North,Gizmo,Hardware,24,54.94,1318.56
+10933,2024-08-28,West,Gadget,Hardware,23,29.74,684.02
+10305,2024-08-29,north,Charger,Electronics,1,20.09,20.09
+10724,2024-08-29,,Widget,Hardware,7,12.59,88.13
+10974,2024-08-29,East,Gadget,Hardware,6,29.25,175.5
+10461,2024-08-30,East,Notebook,Stationery,8,3.33,26.64
+10830,2024-08-30,North ,Headset,Electronics,17,73.04,1241.68
+10896,2024-08-30,,Planner,Stationery,20,,304.4
+10952,2024-08-30,South,Gadget,Hardware,18,29.43,529.74
+10350,2024-09-01,West,Charger,Electronics,21,18.92,397.32
+10951,2024-09-01,East,Widget,Hardware,12,12.21,146.52
+10874,2024-09-01,East,Pen Set,Stationery,13,7.54,98.02
+11144,2024-09-01,South,Headset,Electronics,3,82.31,246.93
+11008,2024-09-01,South,Headset,Electronics,21,75.93,1594.53
+11086,2024-09-02,West,Notebook,Stationery,19,3.37,64.03
+10115,2024-09-02,South,Widget,Hardware,9,12.27,110.43
+10749,2024-09-02,East,Widget,Hardware,24,12.66,303.84
+10024,2024-09-02,East,Pen Set,Stationery,4,7.83,31.32
+10799,2024-09-02,East,Planner,Stationery,11,15.07,165.77
+10780,2024-09-03,North,Widget,Hardware,8,12.23,97.84
+10882,2024-09-03,East,Planner,Stationery,12,15.23,182.76
+10128,2024-09-03,North,Charger,Electronics,17,18.83,320.11
+10246,2024-09-04,South,Headset,Electronics,6,79.43,476.58
+11138,2024-09-04,West,Gizmo,Hardware,2,54.76,109.52
+10703,2024-09-04,East,Pen Set,Stationery,16,8.02,128.32
+10890,2024-09-04,North,Gadget,Hardware,3,29.62,88.86
+10529,2024-09-04,West,Notebook,Stationery,12,3.15,37.8
+10692,2024-09-04,South,Planner,Stationery,22,15.9,349.8
+10487,2024-09-05,South,Gadget,Hardware,22,29.23,643.06
+10354,2024-09-06,East,Charger,Electronics,23,19.79,455.17
+10691,2024-09-06,East,Widget,Hardware,21,12.58,264.18
+10309,2024-09-06,South,Planner,Stationery,24,15.26,366.24
+10518,2024-09-07,North,Charger,Electronics,1,19.38,19.38
+10131,2024-09-07,South,Gizmo,Hardware,18,55.76,1003.68
+10330,2024-09-07,North,Charger,Electronics,24,19.04,456.96
+10275,2024-09-07,East,Charger,Electronics,11,20.66,227.26
+10861,2024-09-07,North,Pen Set,Stationery,7,7.58,53.06
+10521,2024-09-07,South,Pen Set,Stationery,13,7.23,93.99
+10428,2024-09-07,North,Widget,Hardware,3,11.92,35.76
+11146,2024-09-08,North,Planner,Stationery,20,13.88,277.6
+10922,2024-09-08,South,Gizmo,Hardware,17,56.76,964.92
+10726,2024-09-08,,Gadget,Hardware,16,27.83,445.28
+10063,2024-09-08,South,Charger,Electronics,12,18.73,224.76
+10548,2024-09-08,East,Widget,Hardware,8,12.16,97.28
+10029,2024-09-08,South,Planner,Stationery,1,15.04,15.04
+11137,2024-09-08,south,Widget,Hardware,3,12.71,38.13
+10561,2024-09-08,South,Widget,Hardware,15,12.47,187.05
+10614,2024-09-09,South,Gadget,Hardware,16,31.41,502.56
+10260,2024-09-09,South,Notebook,Stationery,12,,38.16
+10292,2024-09-10,East,Headset,Electronics,7,84.18,589.26
+10340,2024-09-10,West,Pen Set,Stationery,12,8.14,97.68
+10095,2024-09-10,North,Notebook,Stationery,17,3.55,60.35
+11101,2024-09-12,North,Widget,Hardware,19,12.66,240.54
+10733,2024-09-12,West,Gizmo,Hardware,5,52.95,264.75
+10410,2024-09-12,North,Headset,Electronics,4,81.33,325.32
+10823,2024-09-12,South,Gizmo,Hardware,21,54.12,1136.52
+10318,2024-09-12,West,Charger,Electronics,22,18.68,410.96
+10135,2024-09-13,South,Gadget,Hardware,9,29.3,263.7
+10238,2024-09-13,East,Pen Set,Stationery,23,7.51,172.73
+10881,2024-09-14,East,Notebook,Stationery,11,3.56,39.16
+10650,2024-09-14,North,Pen Set,Stationery,24,7.91,189.84
+11088,2024-09-14,South,Gadget,Hardware,5,28.08,140.4
+10158,2024-09-14,East,Pen Set,Stationery,3,7.66,22.98
+10468,2024-09-15,East,Charger,Electronics,22,19.48,428.56
+10715,2024-09-15,South,Widget,Hardware,12,12.51,3753.0
+10093,2024-09-15,South,Widget,Hardware,20,11.64,232.8
+10523,2024-09-16,North,Pen Set,Stationery,23,8.05,185.15
+10750,2024-09-16,North,Charger,Electronics,22,19.24,423.28
+10104,2024-09-17,South,Gizmo,Hardware,21,50.03,1050.63
+10968,2024-09-18,North,Pen Set,Stationery,9,7.94,71.46
+10734,2024-09-19,North,Headset,Electronics,17,78.72,1338.24
+10382,2024-09-19,North,Headset,Electronics,11,78.22,860.42
+11062,2024-09-19, West,Charger,Electronics,24,17.73,425.52
+10405,2024-09-19,North,Widget,Hardware,18,12.22,219.96
+10600,2024-09-20,South,Charger,Electronics,15,19.52,292.8
+10347,2024-09-21,East,Planner,Stationery,4,15.33,61.32
+10643,2024-09-21,South,Planner,Stationery,20,15.47,309.4
+10182,2024-09-22,North,Gadget,Hardware,19,29.54,561.26
+10207,2024-09-22,West,Notebook,Stationery,19,3.16,60.04
+10180,2024-09-23,West,Gizmo,Hardware,19,52.72,1001.68
+11007,2024-09-24,North,Planner,Stationery,13,14.19,184.47
+10064,2024-09-24,South,Gizmo,Hardware,15,57.6,864.0
+10839,2024-09-24,East,Gadget,Hardware,22,28.37,624.14
+10854,2024-09-25,East,Widget,Hardware,12,12.48,149.76
+10458,2024-09-25,North,Planner,Stationery,21,15.33,321.93
+10082,2024-09-25,South,Gadget,Hardware,7,27.57,192.99
+10513,2024-09-25,North,Planner,Stationery,3,14.96,44.88
+10398,2024-09-26,East,Gadget,Hardware,18,30.44,547.92
+10052,2024-09-26,North,Gizmo,Hardware,5,55.13,275.65
+10859,2024-09-26,North,Widget,Hardware,6,12.31,73.86
+10914,2024-09-27,West,Gizmo,Hardware,19,53.43,1015.17
+11154,2024-09-27,West,Planner,Stationery,5,15.75,78.75
+11189,2024-09-27,North,Gizmo,Hardware,6,52.86,317.16
+10274,2024-09-28,West,Pen Set,Stationery,4,7.91,31.64
+11002,2024-09-28,South,Gizmo,Hardware,23,57.4,1320.2
+10346,2024-09-28,West,Headset,Electronics,4,81.0,324.0
+10608,2024-09-28,South,Notebook,Stationery,24,3.19,76.56
+10769,2024-09-28,West,Notebook,Stationery,19,3.36,63.84
+10369,2024-09-29,North,Planner,Stationery,23,15.11,347.53
+10143,2024-09-29,East,Pen Set,Stationery,18,,145.8
+10197,2024-09-29,North,Charger,Electronics,2,19.55,39.1
+11164,2024-09-29,East,Planner,Stationery,15,14.35,215.25
+10308,2024-10-01,South,Pen Set,Stationery,21,7.84,164.64
+10452,2024-10-01,West,Notebook,Stationery,8,3.11,24.88
+10517,2024-10-01,West,Gizmo,Hardware,22,51.65,1136.3
+10681,2024-10-01,North,Headset,Electronics,11,77.01,847.11
+10338,2024-10-01,West,Planner,Stationery,2,15.11,30.22
+10604,2024-10-02,West,Charger,Electronics,18,19.61,352.98
+10955,2024-10-02,East,Charger,Electronics,4,19.72,78.88
+10540,2024-10-03, East,Pen Set,Stationery,9,7.84,70.56
+10878,2024-10-03,West,Notebook,Stationery,12,3.19,38.28
+10420,2024-10-03,South,Headset,Electronics,24,79.03,1896.72
+10273,2024-10-03,South,Widget,Hardware,11,12.3,135.3
+11159,2024-10-03,South,Pen Set,Stationery,9,7.56,68.04
+10796,2024-10-03,South,Widget,Hardware,23,11.16,256.68
+10570,2024-10-03,north,Pen Set,Stationery,17,8.06,137.02
+11174,2024-10-04,East,Headset,Electronics,23,80.62,1854.26
+10498,2024-10-04,North,Gizmo,Hardware,5,55.42,277.1
+10757,2024-10-04,South,Widget,Hardware,13,11.97,155.61
+10928,2024-10-05,South,Pen Set,Stationery,9,7.18,64.62
+10339,2024-10-05,East,Widget,Hardware,2,12.49,24.98
+10527,2024-10-05,East,Notebook,Stationery,19,3.22,61.18
+10801,2024-10-06,North,Headset,Electronics,13,79.37,1031.81
+10502,2024-10-06,East,Charger,Electronics,8,19.98,159.84
+10583,2024-10-07,South,Gizmo,Hardware,22,54.74,1204.28
+10399,2024-10-07,West,Gadget,Hardware,18,27.91,502.38
+10563,2024-10-07,East,Gadget,Hardware,19,29.39,558.41
+10287,2024-10-08,West,Charger,Electronics,22,18.97,417.34
+10249,2024-10-09,East,Charger,Electronics,21,17.38,364.98
+10070,2024-10-09,,Headset,Electronics,3,78.1,234.3
+11050,2024-10-09,East,Headset,Electronics,5,78.66,393.3
+10792,2024-10-09,South,Widget,Hardware,6,11.9,71.4
+10315,2024-10-09,North,Planner,Stationery,6,15.31,91.86
+10870,2024-10-09,East,Notebook,Stationery,20,3.08,61.6
+10636,2024-10-10,West,Pen Set,Stationery,23,7.76,178.48
+10025,2024-10-10,South,Charger,Electronics,17,19.8,336.6
+11003,2024-10-11,West,Gadget,Hardware,22,28.77,632.94
+10904,2024-10-11,North,Charger,Electronics,16,18.91,302.56
+11183,2024-10-11,East,Charger,Electronics,14,19.41,271.74
+11083,2024-10-12,North,Pen Set,Stationery,12,7.94,95.28
+11012,2024-10-12,East,Pen Set,Stationery,16,7.97,127.52
+10572,2024-10-12,West,Widget,Hardware,16,11.58,185.28
+10140,2024-10-12,North,Gadget,Hardware,13,30.38,394.94
+10826,2024-10-12,West,Charger,Electronics,23,17.13,393.99
+10597,2024-10-12,West,Planner,Stationery,21,14.05,295.05
+10471,2024-10-13,East,Headset,Electronics,17,81.81,1390.77
+10778,2024-10-13,North,Pen Set,Stationery,14,7.66,107.24
+11092,2024-10-13,West,Gizmo,Hardware,5,53.36,266.8
+10836,2024-10-14,South,Planner,Stationery,16,13.83,221.28
+10981,2024-10-14,West,Gadget,Hardware,6,27.21,163.26
+11071,2024-10-14,,Notebook,Stationery,19,2.92,55.48
+10361,2024-10-14,South,Charger,Electronics,20,,399.8
+11185,2024-10-14,West,Notebook,Stationery,10,3.05,30.5
+10177,2024-10-14,North,Gizmo,Hardware,20,53.31,1066.2
+10232,2024-10-14,North,Pen Set,Stationery,24,8.07,193.68
+10784,2024-10-16,West,Planner,Stationery,14,15.42,215.88
+10923,2024-10-16,,Notebook,Stationery,20,3.25,65.0
+10821,2024-10-16,West,Planner,Stationery,23,14.34,329.82
+10241,2024-10-16,East,Gizmo,Hardware,11,52.26,574.86
+10457,2024-10-18,East,Notebook,Stationery,3,3.15,9.45
+10825,2024-10-18,East,Widget,Hardware,13,12.73,165.49
+10603,2024-10-18,East,Pen Set,Stationery,17,7.39,125.63
+10289,2024-10-18,South,Notebook,Stationery,12,3.16,37.92
+10295,2024-10-18,South,Planner,Stationery,9,15.31,137.79
+10612,2024-10-18,South,Charger,Electronics,3,18.64,55.92
+10528,2024-10-19,East,Planner,Stationery,7,15.32,107.24
+10332,2024-10-19,North,Gadget,Hardware,10,27.97,279.7
+11127,2024-10-19,North,Widget,Hardware,8,11.86,94.88
+10956,2024-10-20,South,Planner,Stationery,3,14.13,42.39
+11094,2024-10-21,South,Notebook,Stationery,22,3.2,70.4
+10176,2024-10-21,West,Planner,Stationery,23,15.54,357.42
+11016,2024-10-21,East,Pen Set,Stationery,21,7.63,160.23
+11014,2024-10-21,West,Charger,Electronics,20,19.26,385.2
+10886,2024-10-22,North,Charger,Electronics,17,19.34,328.78
+10539,2024-10-22,East,Notebook,Stationery,11,3.25,35.75
+11111,2024-10-22,West,Notebook,Stationery,18,3.1,55.8
+10220,2024-10-22,North,Notebook,Stationery,22,3.51,77.22
+10334,2024-10-22,East,Widget,Hardware,17,13.47,228.99
+10417,2024-10-22,East,Charger,Electronics,9,20.52,184.68
+10725,2024-10-23,East,Gizmo,Hardware,20,55.74,1114.8
+10902,2024-10-24,East ,Gizmo,Hardware,16,50.7,811.2
+10877,2024-10-24,East ,Planner,Stationery,24,15.12,362.88
+11074,2024-10-24,West,Pen Set,Stationery,17,7.33,124.61
+10245,2024-10-24,East,Headset,Electronics,14,82.59,1156.26
+10157,2024-10-25,South,Planner,Stationery,10,15.89,158.9
+10066,2024-10-25,West,Charger,Electronics,20,20.63,412.6
+10388,2024-10-26,West,Charger,Electronics,10,19.58,195.8
+10121,2024-10-26,East,Notebook,Stationery,7,3.4,23.8
+11115,2024-10-26,North,Widget,Hardware,24,11.75,282.0
+11049,2024-10-26,South,Pen Set,Stationery,20,7.8,156.0
+11107,2024-10-26,South,Pen Set,Stationery,24,7.71,185.04
+10798,2024-10-27,East,Widget,Hardware,5,12.32,61.6
+10442,2024-10-27,East,Planner,Stationery,23,14.59,335.57
+10276,2024-10-28,East,Charger,Electronics,7,18.8,131.6
+10030,2024-10-28,West,Widget,Hardware,3,12.47,37.41
+10472,2024-10-28,East,Gadget,Hardware,1,28.73,28.73
+10300,2024-10-29,East,Planner,Stationery,8,15.23,121.84
+10404,2024-10-29,East,Charger,Electronics,8,19.27,154.16
+11200,2024-10-29,North,Planner,Stationery,14,,207.76
+10613,2024-10-30,East,Widget,Hardware,17,12.63,214.71
+10695,2024-10-30,East,Headset,Electronics,15,76.93,1153.95
+11109,2024-10-31,North,Charger,Electronics,2,18.71,37.42
+10873,2024-10-31,EAST,Gizmo,Hardware,11,,609.51
+10615,2024-10-31,East,Charger,Electronics,19,19.99,379.81
+10819,2024-10-31,South,Widget,Hardware,7,12.07,84.49
+10595,2024-11-01,South,Pen Set,Stationery,2,7.7,15.4
+10378,2024-11-02,North,Widget,Hardware,17,12.11,205.87
+10053,2024-11-02,North,Headset,Electronics,1,81.5,81.5
+10455,2024-11-02,South,Headset,Electronics,20,72.74,1454.8
+10887,2024-11-02,West,Pen Set,Stationery,11,7.61,83.71
+10986,2024-11-03,North,Planner,Stationery,3,15.12,45.36
+10718,2024-11-03,South,Gizmo,Hardware,20,54.31,1086.2
+10824,2024-11-03,North,Widget,Hardware,19,12.32,234.08
+11180,2024-11-04,North,Gadget,Hardware,1,28.61,28.61
+11032,2024-11-04,East,Charger,Electronics,23,19.82,455.86
+10960,2024-11-04,South,Pen Set,Stationery,11,8.0,88.0
+10526,2024-11-05,West,Charger,Electronics,9,20.88,187.92
+10534,2024-11-05,North,Charger,Electronics,21,18.49,388.29
+10959,2024-11-06,North,Headset,Electronics,5,84.08,420.4
+10374,2024-11-07,South,Pen Set,Stationery,13,7.57,98.41
+10879,2024-11-07,East,Gizmo,Hardware,16,56.38,902.08
+10794,2024-11-07,South,Widget,Hardware,21,12.6,264.6
+10028,2024-11-08,South,Pen Set,Stationery,18,7.48,134.64
+10460,2024-11-08,South,Headset,Electronics,11,78.63,864.93
+10348,2024-11-09,West,Widget,Hardware,2,12.58,25.16
+10313,2024-11-10,East,Gizmo,Hardware,8,55.06,440.48
+10625,2024-11-10,NORTH,Widget,Hardware,22,12.65,278.3
+10196,2024-11-10,South,Pen Set,Stationery,16,7.56,120.96
+11161,2024-11-11,North,Charger,Electronics,17,19.83,337.11
+10096,2024-11-11,South,Planner,Stationery,22,14.8,325.6
+10191,2024-11-11,South,Charger,Electronics,19,20.32,386.08
+10189,2024-11-11,East,Planner,Stationery,12,14.32,171.84
+10653,2024-11-12,South,Headset,Electronics,5,82.22,411.1
+11044,2024-11-13,West,Gizmo,Hardware,4,53.38,213.52
+10071,2024-11-13,East,Gizmo,Hardware,11,51.68,568.48
+10697,2024-11-14,South,Notebook,Stationery,18,3.11,55.98
+10990,2024-11-14,,Gadget,Hardware,9,28.77,258.93
+10832,2024-11-14,South,Charger,Electronics,14,18.77,262.78
+10269,2024-11-14,West,Widget,Hardware,14,12.48,174.72
+10117,2024-11-14,North,Pen Set,Stationery,13,7.43,96.59
+10154,2024-11-14,North,Planner,Stationery,8,14.86,118.88
+10466,2024-11-14,North,Gizmo,Hardware,10,54.78,547.8
+10415,2024-11-15,East,Planner,Stationery,10,14.4,144.0
+10544,2024-11-15,North,Notebook,Stationery,20,3.1,62.0
+10582,2024-11-15,South,Headset,Electronics,10,76.93,769.3
+11188,2024-11-15,North,Headset,Electronics,17,,1370.88
+10251,2024-11-16,South,Planner,Stationery,19,14.8,281.2
+10126,2024-11-16,North,Notebook,Stationery,19,3.25,61.75
+10550,2024-11-16,South,Headset,Electronics,13,73.22,951.86
+10178,2024-11-17,South,Widget,Hardware,18,13.58,244.44
+10524,2024-11-17,South,Planner,Stationery,23,14.41,331.43
+10343,2024-11-18,North,Widget,Hardware,24,11.67,280.08
+10297,2024-11-18,North,Headset,Electronics,19,75.73,1438.87
+11079,2024-11-18,East,Gadget,Hardware,16,29.09,465.44
+10501,2024-11-18,South,Gizmo,Hardware,20,52.69,1053.8
+10791,2024-11-19,North,Headset,Electronics,10,80.16,801.6
+11066,2024-11-20,North,Gizmo,Hardware,14,53.13,743.82
+10587,2024-11-20,North,Gadget,Hardware,21,26.67,560.07
+10488,2024-11-20,North,Gizmo,Hardware,5,53.93,269.65
+10828,2024-11-20,West,Gizmo,Hardware,14,52.57,735.98
+10620,2024-11-21,west,Notebook,Stationery,22,3.15,69.3
+10474,2024-11-21,West,Gizmo,Hardware,8,53.21,425.68
+10331,2024-11-21,,Headset,Electronics,2,77.85,155.7
+10948,2024-11-21,West,Gadget,Hardware,17,31.34,532.78
+10467,2024-11-21,East,Notebook,Stationery,8,3.17,25.36
+10605,2024-11-21,West,Notebook,Stationery,22,3.39,74.58
+10259,2024-11-22,North,Gizmo,Hardware,3,49.01,147.03
+10688,2024-11-22,East,Widget,Hardware,10,13.7,137.0
+10381,2024-11-22,West,Planner,Stationery,8,14.46,115.68
+10033,2024-11-22, North,Widget,Hardware,17,12.59,214.03
+10557,2024-11-22,North,Gadget,Hardware,22,30.03,660.66
+10433,2024-11-23,South,Notebook,Stationery,23,3.16,72.68
+10771,2024-11-24,South,Pen Set,Stationery,5,7.34,36.7
+10092,2024-11-24,West,Headset,Electronics,15,83.25,1248.75
+10891,2024-11-24,East ,Pen Set,Stationery,4,7.68,30.72
+11038,2024-11-24,South,Headset,Electronics,23,74.93,1723.39
+11148,2024-11-25,West,Planner,Stationery,1,14.67,14.67
+10731,2024-11-26,West,Widget,Hardware,14,13.33,186.62
+10932,2024-11-26,North,Planner,Stationery,17,15.83,269.11
+11169,2024-11-26,North,Pen Set,Stationery,23,7.96,183.08
+11063,2024-11-26,North,Gadget,Hardware,20,28.64,572.8
+10631,2024-11-27,West,Gizmo,Hardware,24,51.19,1228.56
+10700,2024-11-27,North,Planner,Stationery,14,15.68,219.52
+10809,2024-11-28,North,Pen Set,Stationery,4,7.9,31.6
+10593,2024-11-28,South,Widget,Hardware,11,13.75,151.25
+10210,2024-11-28,East,Pen Set,Stationery,13,8.54,111.02
+10279,2024-11-28,East,Headset,Electronics,22,77.13,1696.86
+10573,2024-11-29,East,Notebook,Stationery,22,3.21,70.62
+10282,2024-11-29,,Gadget,Hardware,13,26.38,342.94
+10994,2024-11-29,North,Charger,Electronics,12,19.65,235.8
+11178,2024-11-30,East,Headset,Electronics,14,77.84,1089.76
+10672,2024-11-30,East,Charger,Electronics,12,18.97,227.64
+11171,2024-11-30,South,Headset,Electronics,12,80.5,966.0
+10966,2024-11-30,West,Headset,Electronics,8,76.49,611.92
+10414,2024-11-30,North,Charger,Electronics,19,19.11,363.09
+10137,2024-11-30,West,Widget,Hardware,2,12.62,25.24
+10389,2024-12-01,West,Charger,Electronics,12,20.56,246.72
+11081,2024-12-01,North,Charger,Electronics,12,18.61,223.32
+10917,2024-12-01,East,Gadget,Hardware,7,26.79,187.53
+10598,2024-12-02,West,Gizmo,Hardware,15,51.98,779.7
+10268,2024-12-02,North,Widget,Hardware,15,12.94,194.1
+10610,2024-12-02,South,Charger,Electronics,7,20.18,141.26
+10635,2024-12-03,North,Planner,Stationery,3,13.55,40.65
+10589,2024-12-03,East,Gizmo,Hardware,23,53.7,1235.1
+10683,2024-12-03,North,Widget,Hardware,8,12.71,101.68
+10829,2024-12-03,East,Charger,Electronics,24,20.77,498.48
+10989,2024-12-03,East,Headset,Electronics,16,80.27,1284.32
+10421,2024-12-03,East,Pen Set,Stationery,7,7.84,54.88
+10827,2024-12-04,East,Pen Set,Stationery,24,8.02,192.48
+11015,2024-12-04,East,Gadget,Hardware,13,29.94,389.22
+10813,2024-12-04,South,Gadget,Hardware,9,28.01,252.09
+11019,2024-12-05,West,Gadget,Hardware,24,30.76,738.24
+10662,2024-12-05,East,Gadget,Hardware,12,27.94,335.28
+10531,2024-12-05,North,Gizmo,Hardware,15,52.32,784.8
+10430,2024-12-06,North,Pen Set,Stationery,3,8.17,24.51
+10046,2024-12-06,West,Gizmo,Hardware,13,,726.31
+10788,2024-12-06,North,Planner,Stationery,12,15.69,188.28
+10717,2024-12-06,North,Pen Set,Stationery,23,7.75,178.25
+10632,2024-12-06,South,Notebook,Stationery,23,3.1,71.3
+10179,2024-12-07,South,Notebook,Stationery,19,3.13,59.47
+11100,2024-12-07,South,Gizmo,Hardware,6,53.47,320.82
+10980,2024-12-08,East,Headset,Electronics,1,76.01,76.01
+10818,2024-12-08,West,Planner,Stationery,12,16.03,192.36
+10407,2024-12-08,West,Planner,Stationery,3,16.53,49.59
+10160,2024-12-08,North,Gadget,Hardware,22,29.76,654.72
+11136,2024-12-09,North,Pen Set,Stationery,1,8.25,8.25
+10463,2024-12-10,South,Gizmo,Hardware,17,53.59,911.03
+10254,2024-12-10,South,Pen Set,Stationery,22,7.74,170.28
+10476,2024-12-11,South,Planner,Stationery,5,14.57,72.85
+10592,2024-12-11,North,Planner,Stationery,8,15.01,120.08
+10850,2024-12-12,North,Headset,Electronics,4,,295.2
+10756,2024-12-12,East,Notebook,Stationery,12,3.2,38.4
+11034,2024-12-12,West,Widget,Hardware,23,13.27,305.21
+11110,2024-12-13,South,Charger,Electronics,3,,55.56
+11191,2024-12-13,East,Gadget,Hardware,5,28.08,140.4
+10099,2024-12-13,East,Widget,Hardware,20,12.15,243.0
+10079,2024-12-13,East,Gadget,Hardware,16,28.08,449.28
+10440,2024-12-14,SOUTH,Charger,Electronics,13,19.96,259.48
+10451,2024-12-14,South,Gizmo,Hardware,22,54.66,30063.0
+10184,2024-12-14,West,Gadget,Hardware,6,29.92,179.52
+10626,2024-12-14,West,Gadget,Hardware,20,,585.2
+10358,2024-12-14,North,Gizmo,Hardware,9,47.46,427.14
+10395,2024-12-14,South,Widget,Hardware,16,12.5,200.0
+11176,2024-12-14,East,Charger,Electronics,18,19.48,350.64
+10721,2024-12-14,North,Gizmo,Hardware,2,57.96,115.92
+10106,2024-12-15,South,Gizmo,Hardware,5,52.67,263.35
+10319,2024-12-15,North,Headset,Electronics,19,76.85,1460.15
+10290,2024-12-16,North,Charger,Electronics,21,20.49,430.29
+10696,2024-12-16,North,Gizmo,Hardware,10,48.58,485.8
+10889,2024-12-16,North,Notebook,Stationery,16,,53.6
+10152,2024-12-16,North,Widget,Hardware,6,12.33,73.98
+10945,2024-12-17,East,Pen Set,Stationery,16,8.35,133.6
+10112,2024-12-17,South,Pen Set,Stationery,4,7.7,30.8
+10532,2024-12-17,,Planner,Stationery,10,15.33,153.3
+10127,2024-12-17,WEST,Charger,Electronics,12,18.94,227.28
+11046,2024-12-17,North,Planner,Stationery,15,15.73,235.95
+10773,2024-12-18,East,Pen Set,Stationery,22,7.93,174.46
+10416,2024-12-18,North,Widget,Hardware,13,12.24,159.12
+11017,2024-12-19,East,Headset,Electronics,24,78.22,1877.28
+10328,2024-12-20,North,Gadget,Hardware,21,26.69,560.49
+10195,2024-12-20,North,Charger,Electronics,13,20.12,261.56
+10946,2024-12-22,North,Planner,Stationery,4,14.71,58.84
+10547,2024-12-22,North,Pen Set,Stationery,2,7.49,14.98
+10680,2024-12-22,North,Gadget,Hardware,17,28.47,483.99
+11158,2024-12-23,East,Headset,Electronics,10,79.24,792.4
+10748,2024-12-23,East,Pen Set,Stationery,17,7.76,131.92
+10864,2024-12-23,West,Charger,Electronics,12,20.21,242.52
+10942,2024-12-23,South,Widget,Hardware,12,12.56,150.72
+10553,2024-12-23,East,Pen Set,Stationery,22,8.02,176.44
+11108,2024-12-23,East,Gizmo,Hardware,20,52.81,1056.2
+10006,2024-12-24,North,Gizmo,Hardware,20,52.17,1043.4
+10919,2024-12-24,SOUTH,Notebook,Stationery,15,,45.15
+10147,2024-12-24,West,Gadget,Hardware,13,30.53,396.89
+10142,2024-12-24,South,Widget,Hardware,8,,103.2
+10707,2024-12-25,North ,Notebook,Stationery,17,3.35,56.95
+10868,2024-12-25,South,Planner,Stationery,15,14.99,224.85
+10496,2024-12-25,south,Headset,Electronics,9,,668.7
+10018,2024-12-26,South,Gizmo,Hardware,22,52.89,1163.58
+10058,2024-12-26,North,Gizmo,Hardware,6,54.41,326.46
+10844,2024-12-26,West,Charger,Electronics,6,19.9,119.4
+10694,2024-12-26,North,Notebook,Stationery,21,3.21,67.41
+10083,2024-12-26,North,Planner,Stationery,10,14.08,140.8
+11182,2024-12-27,West,Pen Set,Stationery,15,7.68,115.2
+10401,2024-12-27,South,Notebook,Stationery,10,3.05,30.5
+11095,2024-12-27,South,Pen Set,Stationery,5,7.94,39.7
+10086,2024-12-27,East,Charger,Electronics,17,18.76,318.92
+10449,2024-12-27,West,Notebook,Stationery,22,,69.96
+10601,2024-12-27,,Gadget,Hardware,7,27.88,195.16
+10371,2024-12-27,North,Notebook,Stationery,5,2.92,14.6
+10929,2024-12-27,South,Gadget,Hardware,19,30.21,573.99
+10637,2024-12-28,North,Widget,Hardware,12,12.71,152.52
+10810,2024-12-28,North,Planner,Stationery,23,14.4,331.2
+10293,2024-12-29,East,Charger,Electronics,11,20.17,221.87
+10576,2024-12-29,North,Gadget,Hardware,9,29.92,269.28
+10311,2024-12-29,East,Headset,Electronics,6,84.19,505.14
+11149,2024-12-29,North,Gadget,Hardware,4,29.61,118.44
+10555,2024-12-29,,Gizmo,Hardware,4,51.39,205.56
+10783,2024-12-29,South,Notebook,Stationery,23,3.38,77.74
+10475,2024-12-29,West,Headset,Electronics,1,79.95,79.95
+10130,2024-12-30,North,Widget,Hardware,13,12.25,159.25
+10218,2024-08-17,East,Gadget,Hardware,5,29.6,148.0
+10733,2024-09-12,West,Gizmo,Hardware,5,52.95,264.75
+10042,2024-05-19,East,Gadget,Hardware,20,29.32,586.4
+10648,2024-06-09,South,Widget,Hardware,3,11.84,35.52
+10890,2024-09-04,North,Gadget,Hardware,3,29.62,88.86
+10765,2024-04-12,South,Gizmo,Hardware,5,52.36,261.8
+10381,2024-11-22,West,Planner,Stationery,8,14.46,115.68
+10898,2024-05-24,,Charger,Electronics,6,18.88,113.28
+11061,2024-01-09,North,Gadget,Hardware,8,29.66,237.28
+10815,2024-08-25,East,Gadget,Hardware,22,29.44,647.68
+10318,2024-09-12,West,Charger,Electronics,22,18.68,410.96
+10651,2024-05-29,South,Pen Set,Stationery,19,8.0,152.0
+10485,2024-06-21,South,Widget,Hardware,9,12.8,115.2
+11028,2024-02-04,North,Gadget,Hardware,12,30.02,360.24
+10228,2024-02-02,East,Gadget,Hardware,23,29.53,679.19
+10744,2024-01-29,East,Gadget,Hardware,8,27.87,222.96
+10179,2024-12-07,South,Notebook,Stationery,19,3.13,59.47
+10168,2024-07-31,,Pen Set,Stationery,9,7.67,69.03
+11100,2024-12-07,South,Gizmo,Hardware,6,53.47,320.82
+10068,2024-01-28,North,Gizmo,Hardware,22,,1179.2
+11007,2024-09-24,North,Planner,Stationery,13,14.19,184.47
+10339,2024-10-05,East,Widget,Hardware,2,12.49,24.98
+10180,2024-09-23,West,Gizmo,Hardware,19,52.72,1001.68
+10025,2024-10-10,South,Charger,Electronics,17,19.8,336.6
+10484,2024-08-19,South,Charger,Electronics,16,19.48,311.68

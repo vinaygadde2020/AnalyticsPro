@@ -1,0 +1,124 @@
+{
+ "desktop|Data Upload & Preview": {
+  "overflow": {
+   "scrollW": 1440,
+   "vw": 1440,
+   "mainScrollW": 1140,
+   "mainClient": 1140,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "desktop|Data Preparation": {
+  "overflow": {
+   "scrollW": 1440,
+   "vw": 1440,
+   "mainScrollW": 1140,
+   "mainClient": 1140,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "desktop|Automatic EDA": {
+  "overflow": {
+   "scrollW": 1440,
+   "vw": 1440,
+   "mainScrollW": 1140,
+   "mainClient": 1140,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "desktop|KPI Dashboard": {
+  "overflow": {
+   "scrollW": 1440,
+   "vw": 1440,
+   "mainScrollW": 1140,
+   "mainClient": 1140,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "desktop|Interactive Dashboard": {
+  "overflow": {
+   "scrollW": 1440,
+   "vw": 1440,
+   "mainScrollW": 1140,
+   "mainClient": 1140,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "desktop|Visualizations": {
+  "overflow": {
+   "scrollW": 1440,
+   "vw": 1440,
+   "mainScrollW": 1140,
+   "mainClient": 1140,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "desktop|Correlation": {
+  "overflow": {
+   "scrollW": 1440,
+   "vw": 1440,
+   "mainScrollW": 1140,
+   "mainClient": 1140,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "desktop|Outlier Detection": {
+  "overflow": {
+   "scrollW": 1440,
+   "vw": 1440,
+   "mainScrollW": 1140,
+   "mainClient": 1140,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "desktop|Ask Your Data": {
+  "overflow": {
+   "scrollW": 1440,
+   "vw": 1440,
+   "mainScrollW": 1140,
+   "mainClient": 1140,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "desktop|Dataset Comparison": {
+  "overflow": {
+   "scrollW": 1440,
+   "vw": 1440,
+   "mainScrollW": 1140,
+   "mainClient": 1140,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "desktop|Export & Reporting": {
+  "overflow": {
+   "scrollW": 1440,
+   "vw": 1440,
+   "mainScrollW": 1140,
+   "mainClient": 1140,
+   "bad": [],
+   "nbad": 0
+  },
+  "exceptions": []
+ },
+ "desktop|console": []
+}
