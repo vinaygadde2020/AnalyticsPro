@@ -169,4 +169,4 @@ History: [Project history](docs/HISTORY.md) (how the project evolved; older deta
 
 ## License
 
-**No license has been chosen**, so by default all rights are reserved. This needs the owner's decision: see [docs/LICENSE_DECISION.md](docs/LICENSE_DECISION.md) for the options.
+This project is Licence under the MIT Licence.see the [LICENCE](LICENCE) file for details.
