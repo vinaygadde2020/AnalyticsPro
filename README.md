@@ -169,4 +169,4 @@ History: [Project history](docs/HISTORY.md) (how the project evolved; older deta
 
 ## License
 
-This project is Licence under the MIT Licence.see the [LICENCE](LICENCE) file for details.
+This project is Licence under the MIT Licence.see the [LICENSE](LICENSE) file for details.
